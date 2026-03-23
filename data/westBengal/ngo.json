@@ -1,0 +1,298 @@
+[
+  {
+    "ngoId": "WBNGO01",
+    "ngoName": "WWF India – West Bengal State Office",
+    "headquarters": "Kolkata",
+    "workingDistricts": [
+      "South 24 Parganas",
+      "North 24 Parganas",
+      "Darjeeling"
+    ],
+    "focusAreas": [
+      "Mangrove conservation",
+      "Forest protection",
+      "Climate adaptation"
+    ],
+    "website": "https://www.wwfindia.org"
+  },
+  {
+    "ngoId": "WBNGO02",
+    "ngoName": "Nature Environment & Wildlife Society (NEWS)",
+    "headquarters": "Kolkata",
+    "workingDistricts": ["South 24 Parganas", "North 24 Parganas"],
+    "focusAreas": ["Sundarbans conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO03",
+    "ngoName": "Tagore Society for Rural Development",
+    "headquarters": "Birbhum",
+    "workingDistricts": ["Birbhum", "Bardhaman"],
+    "focusAreas": ["Afforestation", "Rural development"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO04",
+    "ngoName": "Calcutta Wildlife Society (CWS)",
+    "headquarters": "Kolkata",
+    "workingDistricts": ["Alipurduar", "Jalpaiguri"],
+    "focusAreas": ["Wildlife habitat conservation", "Forest awareness"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO05",
+    "ngoName": "Wildlife Protection Society of India (WPSI)",
+    "headquarters": "Works in West Bengal",
+    "workingDistricts": ["Alipurduar", "Darjeeling"],
+    "focusAreas": ["Wildlife corridor protection", "Forest monitoring"],
+    "website": "https://www.wpsi-india.org"
+  },
+  {
+    "ngoId": "WBNGO06",
+    "ngoName": "Dakshinbanga Matsyajibi Forum",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Mangrove protection", "Community conservation"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO07",
+    "ngoName": "Sundarbans Development Board (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Mangrove plantation", "Coastal resilience"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO08",
+    "ngoName": "ATREE – Eastern Himalaya Program",
+    "headquarters": "Works in North Bengal",
+    "workingDistricts": ["Darjeeling", "Kalimpong"],
+    "focusAreas": ["Himalayan forest ecology", "Landscape restoration"],
+    "website": "https://www.atree.org"
+  },
+  {
+    "ngoId": "WBNGO09",
+    "ngoName": "Balipara Foundation (Eastern India Projects)",
+    "headquarters": "Works in North Bengal",
+    "workingDistricts": ["Alipurduar", "Jalpaiguri"],
+    "focusAreas": ["Landscape restoration", "Community forestry"],
+    "website": "https://baliparafoundation.com"
+  },
+  {
+    "ngoId": "WBNGO10",
+    "ngoName": "CREDA (Council for Research on Ecology & Development of Assam – WB Projects)",
+    "headquarters": "Works in West Bengal",
+    "workingDistricts": ["Cooch Behar", "Alipurduar"],
+    "focusAreas": ["Forest landscape restoration", "Biodiversity conservation"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO11",
+    "ngoName": "Prakriti Samsad",
+    "headquarters": "Kolkata",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Mangrove plantation", "Environmental education"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO12",
+    "ngoName": "Sabuj Sangha",
+    "headquarters": "Howrah",
+    "workingDistricts": ["Howrah", "Hooghly"],
+    "focusAreas": ["Urban plantation", "Riverbank greening"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO13",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO14",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO15",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO16",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO17",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO18",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO19",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO20",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO21",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO22",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO23",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO24",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO25",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO26",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO27",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO28",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO29",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO30",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO31",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO32",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO33",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO34",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO35",
+    "ngoName": "Sundarban Tiger Conservation Foundation",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Tiger habitat conservation", "Mangrove restoration"],
+    "website": null
+  },
+  {
+    "ngoId": "WBNGO36",
+    "ngoName": "Sundarban Biosphere Reserve Management Committee (NGO collaboration wing)",
+    "headquarters": "South 24 Parganas",
+    "workingDistricts": ["South 24 Parganas"],
+    "focusAreas": ["Biosphere reserve management", "Community engagement"],
+    "website": null
+  }
+]

@@ -1,0 +1,865 @@
+{
+  "West Champaran": [
+    {
+      "speciesId": "BR-WC-FL-01",
+      "commonName": "Sal Tree",
+      "scientificName": "Shorea robusta",
+      "category": "Vulnerable",
+      "habitat": "Moist deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regionally threatened",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg"
+    },
+    {
+      "speciesId": "BR-WC-FL-02",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-WC-FL-03",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    }
+  ],
+
+  "Kaimur": [
+    {
+      "speciesId": "BR-KMR-FL-01",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    },
+    {
+      "speciesId": "BR-KMR-FL-02",
+      "commonName": "Sal Tree",
+      "scientificName": "Shorea robusta",
+      "category": "Vulnerable",
+      "habitat": "Moist deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regionally threatened",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg"
+    },
+    {
+      "speciesId": "BR-KMR-FL-03",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    }
+  ],
+
+  "Rohtas": [
+    {
+      "speciesId": "BR-RHT-FL-01",
+      "commonName": "Palash",
+      "scientificName": "Butea monosperma",
+      "category": "Vulnerable",
+      "habitat": "Open forests and grasslands",
+      "statesFound": ["Bihar"],
+      "threats": ["Habitat conversion"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Butea_monosperma.jpg"
+    },
+    {
+      "speciesId": "BR-RHT-FL-02",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-RHT-FL-03",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    }
+  ],
+
+  "Nalanda": [
+    {
+      "speciesId": "BR-NLD-FL-01",
+      "commonName": "Peepal",
+      "scientificName": "Ficus religiosa",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and village forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected but ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_religiosa.jpg"
+    },
+    {
+      "speciesId": "BR-NLD-FL-02",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-NLD-FL-03",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    }
+  ],
+
+  "Gaya": [
+    {
+      "speciesId": "BR-GYA-FL-01",
+      "commonName": "Bamboo",
+      "scientificName": "Bambusa arundinacea",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and moist areas",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Bambusa_arundinacea.jpg"
+    },
+    {
+      "speciesId": "BR-GYA-FL-02",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-GYA-FL-03",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    }
+  ],
+
+  "Bhagalpur": [
+    {
+      "speciesId": "BR-BGP-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-BGP-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-BGP-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Purnia": [
+    {
+      "speciesId": "BR-PRN-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-PRN-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-PRN-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Gopalganj": [
+    {
+      "speciesId": "BR-GPL-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-GPL-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-GPL-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Saran": [
+    {
+      "speciesId": "BR-SRN-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-SRN-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-SRN-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Siwan": [
+    {
+      "speciesId": "BR-SWN-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-SWN-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-SWN-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Vaishali": [
+    {
+      "speciesId": "BR-VSL-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-VSL-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-VSL-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Madhepura": [
+    {
+      "speciesId": "BR-MDP-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-MDP-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-MDP-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Araria": [
+    {
+      "speciesId": "BR-ARA-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-ARA-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-ARA-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Kishanganj": [
+    {
+      "speciesId": "BR-KSG-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-KSG-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-KSG-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Katihar": [
+    {
+      "speciesId": "BR-KTR-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-KTR-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-KTR-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Sheohar": [
+    {
+      "speciesId": "BR-SHR-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-SHR-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-SHR-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Supaul": [
+    {
+      "speciesId": "BR-SPL-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-SPL-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-SPL-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Darbhanga": [
+    {
+      "speciesId": "BR-DBN-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-DBN-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-DBN-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Madhubani": [
+    {
+      "speciesId": "BR-MDB-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-MDB-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-MDB-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Begusarai": [
+    {
+      "speciesId": "BR-BGS-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-BGS-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-BGS-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Lakhisarai": [
+    {
+      "speciesId": "BR-LKS-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-LKS-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-LKS-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Munger": [
+    {
+      "speciesId": "BR-MGR-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-MGR-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-MGR-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Jamui": [
+    {
+      "speciesId": "BR-JMI-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-JMI-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-JMI-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Khagaria": [
+    {
+      "speciesId": "BR-KGR-FL-01",
+      "commonName": "Saja Tree",
+      "scientificName": "Terminalia tomentosa",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_tomentosa.jpg"
+    },
+    {
+      "speciesId": "BR-KGR-FL-02",
+      "commonName": "Kendu Tree",
+      "scientificName": "Diospyros melanoxylon",
+      "category": "Vulnerable",
+      "habitat": "Mixed deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overharvesting for leaves"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Diospyros_melanoxylon.jpg"
+    },
+    {
+      "speciesId": "BR-KGR-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Bihar"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ]
+}

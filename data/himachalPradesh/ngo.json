@@ -1,0 +1,154 @@
+{
+  "ngos": [
+    {
+      "ngoId": "HPNGO01",
+      "ngoName": "Himalayan Forest Research Institute",
+      "workingDistricts": "ALL",
+      "focus": "Forest restoration"
+    },
+    {
+      "ngoId": "HPNGO02",
+      "ngoName": "Himalayan Environmental Trust",
+      "workingDistricts": ["Shimla", "Kullu", "Chamba"],
+      "focus": "Community forestry"
+    },
+    {
+      "ngoId": "HPNGO03",
+      "ngoName": "People for Himalayan Development",
+      "workingDistricts": ["Kangra", "Mandi", "Solan"],
+      "focus": "Watershed & land restoration"
+    },
+    {
+      "ngoId": "HPNGO04",
+      "ngoName": "Himalayan Nature Conservation Foundation",
+      "workingDistricts": ["Kinnaur", "Lahaul and Spiti"],
+      "focus": "Biodiversity conservation"
+    },
+    {
+      "ngoId": "HPNGO05",
+      "ngoName": "Himalayan Green Earth Foundation",
+      "workingDistricts": ["Bilaspur", "Una"],
+      "focus": "Afforestation & reforestation"
+    },
+    {
+      "ngoId": "HPNGO06",
+      "ngoName": "Himalayan Forest Conservation Society",
+      "workingDistricts": ["Kangra", "Chamba", "Kullu"],
+      "focus": "Forest conservation & sustainable management"
+    },
+    {
+      "ngoId": "HPNGO07",
+      "ngoName": "Himalayan Eco-Development Society",
+      "workingDistricts": ["Shimla", "Mandi", "Sirmaur"],
+      "focus": "Eco-development & community engagement"
+    },
+    {
+      "ngoId": "HPNGO08",
+      "ngoName": "Himalayan Biodiversity Foundation",
+      "workingDistricts": ["Lahaul and Spiti", "Kinnaur"],
+      "focus": "Biodiversity research & conservation"
+    },
+    {
+      "ngoId": "HPNGO09",
+      "ngoName": "Himalayan Forest Restoration Network",
+      "workingDistricts": ["ALL"],
+      "focus": "Forest restoration & reforestation"
+    },
+    {
+      "ngoId": "HPNGO10",
+      "ngoName": "Himalayan Green Warriors",
+      "workingDistricts": ["Hamirpur", "Una"],
+      "focus": "Environmental education & advocacy"
+    },
+    {
+      "ngoId": "HPNGO11",
+      "ngoName": "Himalayan Forest Guardians",
+      "workingDistricts": ["ALL"],
+      "focus": "Forest monitoring & protection"
+    },
+    {
+      "ngoId": "HPNGO12",
+      "ngoName": "Himalayan Eco-Action Network",
+      "workingDistricts": ["Shimla", "Kullu", "Chamba"],
+      "focus": "Community-based forest management"
+    },
+    {
+      "ngoId": "HPNGO13",
+      "ngoName": "Himalayan Forest Research and Conservation Society",
+      "workingDistricts": ["Kangra", "Mandi", "Solan"],
+      "focus": "Forest research & conservation"
+    },
+    {
+      "ngoId": "HPNGO14",
+      "ngoName": "Himalayan Green Earth Network",
+      "workingDistricts": ["Kinnaur", "Lahaul and Spiti"],
+      "focus": "Afforestation & reforestation"
+    },
+    {
+      "ngoId": "HPNGO15",
+      "ngoName": "Himalayan Forest Conservation Network",
+      "workingDistricts": ["Bilaspur", "Una"],
+      "focus": "Forest conservation & sustainable management"
+    },
+    {
+      "ngoId": "HPNGO16",
+      "ngoName": "Himalayan Eco-Development Network",
+      "workingDistricts": ["Kangra", "Chamba", "Kullu"],
+      "focus": "Eco-development & community engagement"
+    },
+    {
+      "ngoId": "HPNGO17",
+      "ngoName": "Himalayan Biodiversity Conservation Society",
+      "workingDistricts": ["Shimla", "Mandi", "Sirmaur"],
+      "focus": "Biodiversity research & conservation"
+    },
+    {
+      "ngoId": "HPNGO18",
+      "ngoName": "Himalayan Forest Restoration Society",
+      "workingDistricts": ["Lahaul and Spiti", "Kinnaur"],
+      "focus": "Forest restoration & reforestation"
+    },
+    {
+      "ngoId": "HPNGO19",
+      "ngoName": "Himalayan Green Earth Warriors",
+      "workingDistricts": ["Hamirpur", "Una"],
+      "focus": "Environmental education & advocacy"
+    },
+    {
+      "ngoId": "HPNGO20",
+      "ngoName": "Himalayan Forest Protection Network",
+      "workingDistricts": ["ALL"],
+      "focus": "Forest monitoring & protection"
+    },
+    {
+      "ngoId": "HPNGO21",
+      "ngoName": "Himalayan Eco-Action Society",
+      "workingDistricts": ["Shimla", "Kullu", "Chamba"],
+      "focus": "Community-based forest management"
+    },
+    {
+      "ngoId": "HPNGO22",
+      "ngoName": "Himalayan Forest Research and Conservation Network",
+      "workingDistricts": ["Kangra", "Mandi", "Solan"],
+      "focus": "Forest research & conservation"
+    },
+    {
+      "ngoId": "HPNGO23",
+      "ngoName": "Himalayan Green Earth Conservation Society",
+      "workingDistricts": ["Kinnaur", "Lahaul and Spiti"],
+      "focus": "Afforestation & reforestation"
+    },
+    {
+      "ngoId": "HPNGO24",
+      "ngoName": "Himalayan Forest Conservation Warriors",
+      "workingDistricts": ["Bilaspur", "Una"],
+      "focus": "Forest conservation & sustainable management"
+    },
+    {
+      "ngoId": "HPNGO25",
+      "ngoName": "Himalayan Eco-Development Warriors",
+      "workingDistricts": ["Kangra", "Chamba", "Kullu"],
+      "focus": "Eco-development & community engagement"
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "Bilaspur": [
+    {
+      "speciesId": "HP-BI-FN-01",
+      "commonName": "Cheer Pheasant",
+      "scientificName": "Catreus wallichii",
+      "category": "Vulnerable",
+      "habitat": "Open grassy slopes and scrub forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Hunting"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Cheer_Pheasant.jpg"
+    },
+    {
+      "speciesId": "HP-BI-FN-02",
+      "commonName": "Himalayan Griffon Vulture",
+      "scientificName": "Gyps himalayensis",
+      "category": "Vulnerable",
+      "habitat": "High-altitude cliffs and open areas",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Poisoning", "Food scarcity"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Griffon_Vulture.jpg"
+    },
+    {
+      "speciesId": "HP-BI-FN-03",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    }
+  ],
+
+  "Chamba": [
+    {
+      "speciesId": "HP-CH-FN-01",
+      "commonName": "Western Tragopan",
+      "scientificName": "Tragopan melanocephalus",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Deforestation", "Poaching"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:WestTragopan.jpg"
+    },
+    {
+      "speciesId": "HP-CH-FN-02",
+      "commonName": "Himalayan Snowcock",
+      "scientificName": "Tetraogallus himalayensis",
+      "category": "Least Concern",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat disturbance"],
+      "conservationStatus": "IUCN: Least Concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Snowcock.jpg"
+    },
+    {
+      "speciesId": "HP-CH-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Hamirpur": [
+    {
+      "speciesId": "HP-HM-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Scrub forests and farmlands",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Illegal wildlife trade"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "HP-HM-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-HM-FN-03",
+      "commonName": "Himalayan Black Bear",
+      "scientificName": "Ursus thibetanus",
+      "category": "Vulnerable",
+      "habitat": "Mixed forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_black_bear.jpg"
+    }
+  ],
+
+  "Kangra": [
+    {
+      "speciesId": "HP-KA-FN-01",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    },
+    {
+      "speciesId": "HP-KA-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-KA-FN-03",
+      "commonName": "Himalayan Black Bear",
+      "scientificName": "Ursus thibetanus",
+      "category": "Vulnerable",
+      "habitat": "Mixed forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_black_bear.jpg"
+    }
+  ],
+
+  "Kinnaur": [
+    {
+      "speciesId": "HP-KN-FN-01",
+      "commonName": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "category": "Vulnerable",
+      "habitat": "High-altitude alpine and rocky terrain",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Climate change", "Prey loss"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Snow_Leopard.jpg"
+    },
+    {
+      "speciesId": "HP-KN-FN-02",
+      "commonName": "Himalayan Ibex",
+      "scientificName": "Capra sibirica",
+      "category": "Vulnerable",
+      "habitat": "Cold desert and alpine cliffs",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Poaching", "Climate stress"],
+      "conservationStatus": "Regionally Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Siberian_ibex.jpg"
+    },
+    {
+      "speciesId": "HP-KN-FN-03",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    }
+  ],
+
+  "Kullu": [
+    {
+      "speciesId": "HP-KU-FN-01",
+      "commonName": "Himalayan Brown Bear",
+      "scientificName": "Ursus arctos isabellinus",
+      "category": "Vulnerable",
+      "habitat": "Sub-alpine forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Brown_Bear.jpg"
+    },
+    {
+      "speciesId": "HP-KU-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-KU-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Lahaul and Spiti": [
+    {
+      "speciesId": "HP-LS-FN-01",
+      "commonName": "Himalayan Ibex",
+      "scientificName": "Capra sibirica",
+      "category": "Vulnerable",
+      "habitat": "Cold desert and alpine cliffs",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Poaching", "Climate stress"],
+      "conservationStatus": "Regionally Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Siberian_ibex.jpg"
+    },
+    {
+      "speciesId": "HP-LS-FN-02",
+      "commonName": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "category": "Vulnerable",
+      "habitat": "High-altitude alpine and rocky terrain",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Climate change", "Prey loss"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Snow_Leopard.jpg"
+    },
+    {
+      "speciesId": "HP-LS-FN-03",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    }
+  ],
+
+  "Mandi": [
+    {
+      "speciesId": "HP-MA-FN-01",
+      "commonName": "Himalayan Musk Deer",
+      "scientificName": "Moschus chrysogaster",
+      "category": "Endangered",
+      "habitat": "Sub-alpine forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Poaching"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Musk_Deer.jpg"
+    },
+    {
+      "speciesId": "HP-MA-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-MA-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Shimla": [
+    {
+      "speciesId": "HP-SH-FN-01",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    },
+    {
+      "speciesId": "HP-SH-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-SH-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Sirmaur": [
+    {
+      "speciesId": "HP-SR-FN-01",
+      "commonName": "Asian Elephant (migratory)",
+      "scientificName": "Elephas maximus",
+      "category": "Endangered",
+      "habitat": "Forest corridors",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Corridor loss"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asian_elephant.jpg"
+    },
+    {
+      "speciesId": "HP-SR-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-SR-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Solan": [
+    {
+      "speciesId": "HP-SO-FN-01",
+      "commonName": "Himalayan Black Bear",
+      "scientificName": "Ursus thibetanus",
+      "category": "Vulnerable",
+      "habitat": "Mixed forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_black_bear.jpg"
+    },
+    {
+      "speciesId": "HP-SO-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-SO-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Una": [
+    {
+      "speciesId": "HP-UN-FN-01",
+      "commonName": "Indian Peafowl",
+      "scientificName": "Pavo cristatus",
+      "category": "Vulnerable",
+      "habitat": "Open forests and farmlands",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_peafowl.jpg"
+    },
+    {
+      "speciesId": "HP-UN-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Steep rocky slopes and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Tahr.jpg"
+    },
+    {
+      "speciesId": "HP-UN-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of HP",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ]
+}

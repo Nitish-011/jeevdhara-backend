@@ -1,0 +1,289 @@
+{
+  "Darjeeling": [
+    {
+      "speciesId": "WB-DJ-FN-01",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate Himalayan forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation", "Climate change"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda_(Ailurus_fulgens).jpg"
+    },
+    {
+      "speciesId": "WB-DJ-FN-02",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of West Bengal",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    },
+    {
+      "speciesId": "WB-DJ-FN-03",
+      "commonName": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "category": "Vulnerable",
+      "habitat": "High-altitude alpine and rocky terrain",
+      "statesFound": ["West Bengal"],
+      "threats": ["Climate change", "Prey loss"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Snow_Leopard.jpg"
+    }
+  ],
+
+  "Kalimpong": [
+    {
+      "speciesId": "WB-KP-FN-01",
+      "commonName": "Himalayan Black Bear",
+      "scientificName": "Ursus thibetanus",
+      "category": "Vulnerable",
+      "habitat": "Montane forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss", "Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_black_bear.jpg"
+    },
+    {
+      "speciesId": "WB-KP-FN-02",
+      "commonName": "Clouded Leopard",
+      "scientificName": "Neofelis nebulosa",
+      "category": "Vulnerable",
+      "habitat": "Dense tropical and subtropical forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation", "Poaching"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Clouded_Leopard.jpg"
+    },
+    {
+      "speciesId": "WB-KP-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate Himalayan forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation", "Climate change"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda_(Ailurus_fulgens).jpg"
+    }
+  ],
+
+  "Alipurduar": [
+    {
+      "speciesId": "WB-ALP-FN-01",
+      "commonName": "Asian Elephant",
+      "scientificName": "Elephas maximus",
+      "category": "Endangered",
+      "habitat": "Forest corridors and grasslands",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat fragmentation"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asian_elephant.jpg"
+    },
+    {
+      "speciesId": "WB-ALP-FN-02",
+      "commonName": "Gaur",
+      "scientificName": "Bos gaurus",
+      "category": "Vulnerable",
+      "habitat": "Tropical and subtropical forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Gaur_(Bos_gaurus).jpg"
+    },
+    {
+      "speciesId": "WB-ALP-FN-03",
+      "commonName": "Sloth Bear",
+      "scientificName": "Melursus ursinus",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Human conflict", "Habitat loss"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Sloth_Bear.jpg"
+    }
+  ],
+
+  "Jalpaiguri": [
+    {
+      "speciesId": "WB-JPG-FN-01",
+      "commonName": "Indian Rhinoceros",
+      "scientificName": "Rhinoceros unicornis",
+      "category": "Vulnerable",
+      "habitat": "Riverine grasslands",
+      "statesFound": ["West Bengal"],
+      "threats": ["Poaching"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_rhinoceros.jpg"
+    },
+    {
+      "speciesId": "WB-JPG-FN-02",
+      "commonName": "Pygmy Hog",
+      "scientificName": "Porcula salvania",
+      "category": "Endangered",
+      "habitat": "Tall grasslands",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss", "Invasive species"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pygmy_Hog.jpg"
+    },
+    {
+      "speciesId": "WB-JPG-FN-03",
+      "commonName": "Himalayan Black Bear",
+      "scientificName": "Ursus thibetanus",
+      "category": "Vulnerable",
+      "habitat": "Montane forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss", "Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_black_bear.jpg"
+    }
+  ],
+
+  "Cooch Behar": [
+    {
+      "speciesId": "WB-CB-FN-01",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Mixed forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    },
+    {
+      "speciesId": "WB-CB-FN-02",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Forest edges and scrub",
+      "statesFound": ["West Bengal"],
+      "threats": ["Illegal wildlife trade"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "WB-CB-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of West Bengal",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "South 24 Parganas": [
+    {
+      "speciesId": "WB-S24-FN-01",
+      "commonName": "Royal Bengal Tiger",
+      "scientificName": "Panthera tigris tigris",
+      "category": "Endangered",
+      "habitat": "Mangrove forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Sea-level rise", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger.jpg"
+    },
+    {
+      "speciesId": "WB-S24-FN-02",
+      "commonName": "Saltwater Crocodile",
+      "scientificName": "Crocodylus porosus",
+      "category": "Vulnerable",
+      "habitat": "Brackish water and mangroves",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss", "Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Saltwater_Crocodile.jpg"
+    },
+    {
+      "speciesId": "WB-S24-FN-03",
+      "commonName": "Fishing Cat",
+      "scientificName": "Prionailurus viverrinus",
+      "category": "Vulnerable",
+      "habitat": "Wetlands and mangroves",
+      "statesFound": ["West Bengal"],
+      "threats": ["Wetland destruction"],
+      "conservationStatus": "Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Fishing_cat.jpg"
+    }
+  ],
+
+  "North 24 Parganas": [
+    {
+      "speciesId": "WB-N24-FN-01",
+      "commonName": "Fishing Cat",
+      "scientificName": "Prionailurus viverrinus",
+      "category": "Vulnerable",
+      "habitat": "Wetlands and mangroves",
+      "statesFound": ["West Bengal"],
+      "threats": ["Wetland destruction"],
+      "conservationStatus": "Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Fishing_cat.jpg"
+    },
+    {
+      "speciesId": "WB-N24-FN-02",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Forest edges and scrub",
+      "statesFound": ["West Bengal"],
+      "threats": ["Illegal wildlife trade"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "WB-N24-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of West Bengal",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Howrah": [
+    {
+      "speciesId": "WB-HOW-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Forest edges and scrub",
+      "statesFound": ["West Bengal"],
+      "threats": ["Illegal wildlife trade"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "WB-HOW-FN-02",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Hunting", "Habitat disturbance"],
+      "conservationStatus": "State Bird of West Bengal",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    },
+    {
+      "speciesId": "WB-HOW-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate Himalayan forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation", "Climate change"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda_(Ailurus_fulgens).jpg"
+    }
+  ]
+}

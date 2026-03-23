@@ -1,0 +1,433 @@
+{
+  "Dehradun": [
+    {
+      "speciesId": "UK-DD-FN-01",
+      "commonName": "Asian Elephant",
+      "scientificName": "Elephas maximus",
+      "category": "Endangered",
+      "habitat": "Terai forests and corridors",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat fragmentation", "Human conflict"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asian_elephant.jpg"
+    },
+    {
+      "speciesId": "UK-DD-FN-02",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Forest edges and scrub",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Illegal wildlife trade"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "UK-DD-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Hunting", "Disturbance"],
+      "conservationStatus": "State Bird of Uttarakhand",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ],
+
+  "Haridwar": [
+    {
+      "speciesId": "UK-HR-FN-01",
+      "commonName": "Ganges River Dolphin",
+      "scientificName": "Platanista gangetica",
+      "category": "Endangered",
+      "habitat": "Riverine ecosystem",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Water pollution", "River modification"],
+      "conservationStatus": "National Aquatic Animal of India",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ganges_river_dolphin.jpg"
+    },
+    {
+      "speciesId": "UK-HR-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Illegal pet trade"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "UK-HR-FN-03",
+      "commonName": "Blackbuck",
+      "scientificName": "Antilope cervicapra",
+      "category": "Vulnerable",
+      "habitat": "Grasslands and open woodlands",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Blackbuck.jpg"
+    }
+  ],
+
+  "Udham Singh Nagar": [
+    {
+      "speciesId": "UK-USN-FN-01",
+      "commonName": "Bengal Tiger",
+      "scientificName": "Panthera tigris tigris",
+      "category": "Endangered",
+      "habitat": "Terai grasslands and sal forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Poaching", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger.jpg"
+    },
+    {
+      "speciesId": "UK-USN-FN-02",
+      "commonName": "Swamp Deer",
+      "scientificName": "Rucervus duvaucelii",
+      "category": "Vulnerable",
+      "habitat": "Marshy grasslands",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Swamp_Deer.jpg"
+    },
+    {
+      "speciesId": "UK-USN-FN-03",
+      "commonName": "Gharial",
+      "scientificName": "Gavialis gangeticus",
+      "category": "Critically Endangered",
+      "habitat": "Riverine habitats",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["River pollution", "Fishing nets"],
+      "conservationStatus": "IUCN: Critically Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Gharial.jpg"
+    }
+  ],
+
+  "Nainital": [
+    {
+      "speciesId": "UK-NTL-FN-01",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    },
+    {
+      "speciesId": "UK-NTL-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-NTL-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    }
+  ],
+
+  "Pauri Garhwal": [
+    {
+      "speciesId": "UK-PG-FN-01",
+      "commonName": "Himalayan Black Bear",
+      "scientificName": "Ursus thibetanus",
+      "category": "Vulnerable",
+      "habitat": "Mixed temperate forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Human conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_black_bear.jpg"
+    },
+    {
+      "speciesId": "UK-PG-FN-02",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Hunting", "Disturbance"],
+      "conservationStatus": "State Bird of Uttarakhand",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    },
+    {
+      "speciesId": "UK-PG-FN-03",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    }
+  ],
+
+  "Tehri Garhwal": [
+    {
+      "speciesId": "UK-TG-FN-01",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Hunting", "Disturbance"],
+      "conservationStatus": "State Bird of Uttarakhand",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    },
+    {
+      "speciesId": "UK-TG-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-TG-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    }
+  ],
+
+  "Chamoli": [
+    {
+      "speciesId": "UK-CHM-FN-01",
+      "commonName": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "category": "Vulnerable",
+      "habitat": "High-altitude alpine terrain",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Climate change", "Prey decline"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Snow_Leopard.jpg"
+    },
+    {
+      "speciesId": "UK-CHM-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-CHM-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    }
+  ],
+
+  "Uttarkashi": [
+    {
+      "speciesId": "UK-UTK-FN-01",
+      "commonName": "Himalayan Musk Deer",
+      "scientificName": "Moschus chrysogaster",
+      "category": "Endangered",
+      "habitat": "Sub-alpine forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Poaching"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Musk_Deer.jpg"
+    },
+    {
+      "speciesId": "UK-UTK-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-UTK-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    }
+  ],
+
+  "Almora": [
+    {
+      "speciesId": "UK-ALM-FN-01",
+      "commonName": "Cheer Pheasant",
+      "scientificName": "Catreus wallichii",
+      "category": "Vulnerable",
+      "habitat": "Open hill slopes",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Cheer_Pheasant.jpg"
+    },
+    {
+      "speciesId": "UK-ALM-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-ALM-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    }
+  ],
+
+  "Bageshwar": [
+    {
+      "speciesId": "UK-BGW-FN-01",
+      "commonName": "Himalayan Goral",
+      "scientificName": "Naemorhedus goral",
+      "category": "Vulnerable",
+      "habitat": "Steep forested slopes",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_goral.jpg"
+    },
+    {
+      "speciesId": "UK-BGW-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-BGW-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    }
+  ],
+
+  "Champawat": [
+    {
+      "speciesId": "UK-CHP-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Forest edges and scrub",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Illegal wildlife trade"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "UK-CHP-FN-02",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-CHP-FN-03",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    }
+  ],
+
+  "Pithoragarh": [
+    {
+      "speciesId": "UK-PTH-FN-01",
+      "commonName": "Himalayan Tahr",
+      "scientificName": "Hemitragus jemlahicus",
+      "category": "Vulnerable",
+      "habitat": "Alpine cliffs and meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat change"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_tahr.jpg"
+    },
+    {
+      "speciesId": "UK-PTH-FN-02",
+      "commonName": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "category": "Endangered",
+      "habitat": "Temperate forests with bamboo understory",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Poaching"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda.jpg"
+    },
+    {
+      "speciesId": "UK-PTH-FN-03",
+      "commonName": "Himalayan Monal",
+      "scientificName": "Lophophorus impejanus",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests and alpine meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Hunting", "Disturbance"],
+      "conservationStatus": "State Bird of Uttarakhand",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:The_Himalayan_Monal.jpg"
+    }
+  ]
+}

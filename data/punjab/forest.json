@@ -1,0 +1,279 @@
+{
+  "forests": [
+    {
+      "forestId": "PBF01",
+      "forestName": "Harike Wetland & Forest",
+      "state": "Punjab",
+      "district": "Tarn Taran",
+      "forestType": "Wetland & Riverine Forest",
+      "latitude": 31.168,
+      "longitude": 75.206,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF02",
+      "forestName": "Abohar Wildlife Sanctuary",
+      "state": "Punjab",
+      "district": "Fazilka",
+      "forestType": "Arid & Plantation Forest",
+      "latitude": 30.146,
+      "longitude": 74.196,
+      "protectedStatus": true,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF03",
+      "forestName": "Bir Moti Bagh Forest",
+      "state": "Punjab",
+      "district": "Patiala",
+      "forestType": "Dry Deciduous Plantation Forest",
+      "latitude": 30.326,
+      "longitude": 76.393,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF04",
+      "forestName": "Riverine Plantation Belt",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "forestType": "Riverine & Agroforestry Plantation",
+      "latitude": 30.9,
+      "longitude": 75.85,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF05",
+      "forestName": "Chhatbir Zoo & Forest Area",
+      "state": "Punjab",
+      "district": "Mohali",
+      "forestType": "Urban & Botanical Forest",
+      "latitude": 30.74,
+      "longitude": 76.78,
+      "protectedStatus": true,
+      "deforestationRisk": "low"
+    },
+    {
+      "forestId": "PBF06",
+      "forestName": "Ludhiana Urban Forest",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "forestType": "Urban Plantation Forest",
+      "latitude": 30.9,
+      "longitude": 75.85,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF07",
+      "forestName": "Patiala Botanical Garden & Forest",
+      "state": "Punjab",
+      "district": "Patiala",
+      "forestType": "Botanical & Urban Forest",
+      "latitude": 30.33,
+      "longitude": 76.38,
+      "protectedStatus": true,
+      "deforestationRisk": "low"
+    },
+    {
+      "forestId": "PBF08",
+      "forestName": "Fazilka Green Belt Forest",
+      "state": "Punjab",
+      "district": "Fazilka",
+      "forestType": "Green Belt & Agroforestry Plantation",
+      "latitude": 30.15,
+      "longitude": 74.2,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF09",
+      "forestName": "Sangrur Community Forest Patch",
+      "state": "Punjab",
+      "district": "Sangrur",
+      "forestType": "Community Managed Plantation Forest",
+      "latitude": 30.25,
+      "longitude": 75.8,
+      "protectedStatus": false,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF10",
+      "forestName": "Mansa Agroforestry Zone",
+      "state": "Punjab",
+      "district": "Mansa",
+      "forestType": "Agroforestry Plantation Zone",
+      "latitude": 30.05,
+      "longitude": 75.1,
+      "protectedStatus": false,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF11",
+      "forestName": "Bathinda Dry Forest Patch",
+      "state": "Punjab",
+      "district": "Bathinda",
+      "forestType": "Dry Deciduous Forest",
+      "latitude": 30.21,
+      "longitude": 74.95,
+      "protectedStatus": true,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF12",
+      "forestName": "Ferozepur Riverine Forest Patch",
+      "state": "Punjab",
+      "district": "Ferozepur",
+      "forestType": "Riverine Forest Patch",
+      "latitude": 30.9,
+      "longitude": 74.6,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF13",
+      "forestName": "Gurdaspur Community Forest Area",
+      "state": "Punjab",
+      "district": "Gurdaspur",
+      "forestType": "Community Managed Plantation Forest",
+      "latitude": 32.05,
+      "longitude": 75.4,
+      "protectedStatus": false,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF14",
+      "forestName": "Rupnagar Foothill Forest Patch",
+      "state": "Punjab",
+      "district": "Rupnagar",
+      "forestType": "Foothill Plantation Forest Patch",
+      "latitude": 30.98,
+      "longitude": 76.5,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF15",
+      "forestName": "Barnala Agroforestry Zone",
+      "state": "Punjab",
+      "district": "Barnala",
+      "forestType": "Agroforestry Plantation Zone",
+      "latitude": 30.38,
+      "longitude": 75.9,
+      "protectedStatus": false,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF16",
+      "forestName": "Moga Green Belt Forest",
+      "state": "Punjab",
+      "district": "Moga",
+      "forestType": "Green Belt Plantation Forest",
+      "latitude": 30.8,
+      "longitude": 75.2,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF17",
+      "forestName": "Sangrur Dry Forest Patch",
+      "state": "Punjab",
+      "district": "Sangrur",
+      "forestType": "Dry Deciduous Forest Patch",
+      "latitude": 30.25,
+      "longitude": 75.8,
+      "protectedStatus": true,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF18",
+      "forestName": "Fazilka Agroforestry Zone",
+      "state": "Punjab",
+      "district": "Fazilka",
+      "forestType": "Agroforestry Plantation Zone",
+      "latitude": 30.15,
+      "longitude": 74.2,
+      "protectedStatus": false,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF19",
+      "forestName": "Ludhiana Botanical Garden & Forest Patch",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "forestType": ["Botanical Garden", "Urban Plantation"],
+      "latitude": 30.9,
+      "longitude": 75.85,
+      "protectedStatus": true,
+      "deforestationRisk": ["low", "medium"]
+    },
+    {
+      "forestId": "PBF20",
+      "forestName": "Patiala Urban Forest",
+      "state": "Punjab",
+      "district": "Patiala",
+      "forestType": "Urban Plantation",
+      "latitude": 30.33,
+      "longitude": 76.38,
+      "protectedStatus": true,
+      "deforestationRisk": "low"
+    },
+    {
+      "forestId": "PBF21",
+      "forestName": "Amritsar Green Belt Forest",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "forestType": "Green Belt Plantation Forest",
+      "latitude": 31.63,
+      "longitude": 74.87,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "PBF22",
+      "forestName": "Tarn Taran Riverine Forest Patch",
+      "state": "Punjab",
+      "district": "Tarn Taran",
+      "forestType": "Riverine Forest Patch",
+      "latitude": 31.168,
+      "longitude": 75.206,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "PBF23",
+      "forestName": "Sangrur Community Forest Patch",
+      "state": "Punjab",
+      "district": "Sangrur",
+      "forestType": "Community Managed Plantation",
+      "latitude": 30.25,
+      "longitude": 75.8,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": ["PBF24"],
+      "forestName": "Bathinda Dry Forest Patch",
+      "state": "Punjab",
+      "district": "Bathinda",
+      "forestType": "Dry Deciduous Forest",
+      "latitude": [30.21, 30.25],
+      "longitude": [74.95, 75.8],
+      "protectedStatus": [true, true],
+      "deforestationRisk": ["high", "high"]
+    },
+    {
+      "forestId": "PBF25",
+      "forestName": "Fazilka Agroforestry Zone",
+      "state": "Punjab",
+      "district": "Fazilka",
+      "forestType": "Agroforestry Plantation Zone",
+      "latitude": 30.15,
+      "longitude": 74.2,
+      "protectedStatus": false,
+      "deforestationRisk": "medium"
+    }
+  ]
+}

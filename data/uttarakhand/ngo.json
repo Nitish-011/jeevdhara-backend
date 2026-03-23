@@ -1,0 +1,326 @@
+[
+  {
+    "ngoId": "UKNGO01",
+    "ngoName": "Himalayan Environmental Studies and Conservation Organization (HESCO)",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Tehri Garhwal", "Pauri Garhwal"],
+    "focusAreas": [
+      "Forest restoration",
+      "Watershed management",
+      "Community forestry"
+    ],
+    "email": "info@hescoindia.in",
+    "website": "https://hesco.co.in"
+  },
+  {
+    "ngoId": "UKNGO02",
+    "ngoName": "SankalpTaru Foundation",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Haridwar", "Nainital"],
+    "focusAreas": ["Large-scale plantation", "Agroforestry"],
+    "email": "info@sankalptaru.org",
+    "website": "https://sankalptaru.org"
+  },
+  {
+    "ngoId": "UKNGO03",
+    "ngoName": "Uttarakhand Agro Forestry Development Corporation (UAFDC)",
+    "headquarters": "Kotdwar",
+    "workingDistricts": [
+      "Pauri Garhwal",
+      "Tehri Garhwal",
+      "Almora",
+      "Nainital"
+    ],
+    "focusAreas": ["Agroforestry", "Farmer-based plantations"],
+    "email": null,
+    "website": "https://www.uafdc.in"
+  },
+  {
+    "ngoId": "UKNGO04",
+    "ngoName": "CHIRAG (Central Himalayan Rural Action Group)",
+    "headquarters": "Nainital",
+    "workingDistricts": ["Nainital", "Almora"],
+    "focusAreas": ["Natural resource management", "Sustainable livelihoods"],
+    "email": "chirag@chirag.org",
+    "website": "https://www.chirag.org"
+  },
+  {
+    "ngoId": "UKNGO05",
+    "ngoName": "People's Science Institute (PSI)",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Uttarkashi", "Tehri Garhwal"],
+    "focusAreas": ["Watershed restoration", "Environmental research"],
+    "email": "psi@psidehradun.org",
+    "website": "https://psidehradun.org"
+  },
+  {
+    "ngoId": "UKNGO06",
+    "ngoName": "Himalayan Action Research Centre (HARC)",
+    "headquarters": "Nainital",
+    "workingDistricts": ["Nainital", "Almora"],
+    "focusAreas": ["Climate resilience", "Forest-based livelihoods"],
+    "email": "info@harcindia.org",
+    "website": "https://www.harcindia.org"
+  },
+  {
+    "ngoId": "UKNGO07",
+    "ngoName": "Rural Litigation and Entitlement Kendra (RLEK)",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Haridwar"],
+    "focusAreas": ["Forest rights", "Environmental justice"],
+    "email": "rlek@rlek.org",
+    "website": "https://www.rlek.org"
+  },
+  {
+    "ngoId": "UKNGO08",
+    "ngoName": "Foundation for Ecological Security (FES)",
+    "headquarters": "Almora",
+    "workingDistricts": ["Almora", "Bageshwar"],
+    "focusAreas": ["Common land restoration", "Forest governance"],
+    "email": "info@fes.org.in",
+    "website": "https://fes.org.in"
+  },
+  {
+    "ngoId": "UKNGO09",
+    "ngoName": "Van Panchayat Sangathan",
+    "headquarters": "Multiple villages",
+    "workingDistricts": ["Almora", "Pithoragarh", "Bageshwar"],
+    "focusAreas": ["Community forest management"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO10",
+    "ngoName": "Save Himalayas Foundation",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Uttarkashi"],
+    "focusAreas": ["Afforestation", "Environmental awareness"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO11",
+    "ngoName": "Wildlife Trust of India (WTI)",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Haridwar", "Nainital", "Pauri Garhwal"],
+    "focusAreas": ["Wildlife habitat restoration", "Corridor conservation"],
+    "email": "info@wti.org.in",
+    "website": "https://www.wti.org.in"
+  },
+  {
+    "ngoId": "UKNGO12",
+    "ngoName": "Nature Conservation Foundation (NCF)",
+    "headquarters": "Works in Uttarakhand",
+    "workingDistricts": ["Nainital", "Uttarkashi"],
+    "focusAreas": ["Biodiversity conservation", "Forest ecology"],
+    "email": "info@ncf-india.org",
+    "website": "https://ncf-india.org"
+  },
+  {
+    "ngoId": "UKNGO13",
+    "ngoName": "WWF India (Uttarakhand Landscape)",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Haridwar", "Nainital", "Pauri Garhwal"],
+    "focusAreas": ["Forest conservation", "Human-wildlife coexistence"],
+    "email": "support@wwfindia.net",
+    "website": "https://www.wwfindia.org"
+  },
+  {
+    "ngoId": "UKNGO14",
+    "ngoName": "SAYTREES (Uttarakhand initiatives)",
+    "headquarters": "Works in Uttarakhand",
+    "workingDistricts": ["Dehradun", "Haridwar"],
+    "focusAreas": ["Volunteer-driven plantations"],
+    "email": "info@saytrees.org",
+    "website": "https://saytrees.org"
+  },
+  {
+    "ngoId": "UKNGO15",
+    "ngoName": "Green Hills Trust",
+    "headquarters": "Pauri Garhwal",
+    "workingDistricts": ["Pauri Garhwal"],
+    "focusAreas": ["Hill afforestation", "Soil conservation"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO16",
+    "ngoName": "Avani Bio Energy & Social Enterprise",
+    "headquarters": "Bageshwar",
+    "workingDistricts": ["Bageshwar", "Almora"],
+    "focusAreas": ["Forest-based livelihoods", "Eco-restoration"],
+    "email": "info@avani.bio",
+    "website": "https://avani.bio"
+  },
+  {
+    "ngoId": "UKNGO17",
+    "ngoName": "Mount Valley Development Association",
+    "headquarters": "Tehri Garhwal",
+    "workingDistricts": ["Tehri Garhwal"],
+    "focusAreas": ["Afforestation", "Village development"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO18",
+    "ngoName": "Himalayan Nature & Adventure Foundation",
+    "headquarters": "Uttarkashi",
+    "workingDistricts": ["Uttarkashi"],
+    "focusAreas": ["Eco-restoration", "Awareness"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO19",
+    "ngoName": "Eco Task Force (Territorial Army – Uttarakhand)",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Pauri Garhwal"],
+    "focusAreas": ["Afforestation", "Degraded land restoration"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO20",
+    "ngoName": "Bhagirathi Eco Development Foundation",
+    "headquarters": "Uttarkashi",
+    "workingDistricts": ["Uttarkashi"],
+    "focusAreas": ["River basin afforestation", "Forest protection"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO21",
+    "ngoName": "Himalayan Environmental Research and Conservation Organization (HERCO)",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Tehri Garhwal"],
+    "focusAreas": ["Forest ecology research", "Conservation advocacy"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO22",
+    "ngoName": "Green Earth Foundation (Uttarakhand chapter)",
+    "headquarters": "Works in Uttarakhand",
+    "workingDistricts": ["Haridwar", "Nainital"],
+    "focusAreas": ["Afforestation", "Environmental education"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO23",
+    "ngoName": "Himalayan Green Action Team (HGAT)",
+    "headquarters": "Almora",
+    "workingDistricts": ["Almora", "Pithoragarh"],
+    "focusAreas": ["Community forestry", "Sustainable agriculture"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO24",
+    "ngoName": "Eco Himal Foundation",
+    "headquarters": "Nainital",
+    "workingDistricts": ["Nainital", "Almora"],
+    "focusAreas": ["Forest conservation", "Climate change mitigation"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO25",
+    "ngoName": "Himalayan Forest Conservation Society (HFCS)",
+    "headquarters": null,
+    "workingDistricts": ["Pauri Garhwal", "Tehri Garhwal"],
+    "focusAreas": ["Forest restoration", "Biodiversity conservation"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO26",
+    "ngoName": "Green Warriors of Uttarakhand",
+    "headquarters": "Dehradun",
+    "workingDistricts": ["Dehradun", "Haridwar"],
+    "focusAreas": ["Afforestation", "Environmental activism"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO27",
+    "ngoName": "Himalayan Biodiversity Conservation Society (HBCS)",
+    "headquarters": null,
+    "workingDistricts": ["Uttarkashi", "Pauri Garhwal"],
+    "focusAreas": ["Biodiversity conservation", "Forest ecology research"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO28",
+    "ngoName": "Eco Warriors of Uttarakhand",
+    "headquarters": null,
+    "workingDistricts": ["Almora", "Bageshwar"],
+    "focusAreas": ["Afforestation", "Environmental education"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO29",
+    "ngoName": "Himalayan Forest Restoration Initiative (HFRI)",
+    "headquarters": null,
+    "workingDistricts": ["Tehri Garhwal", "Pauri Garhwal"],
+    "focusAreas": ["Forest restoration", "Community engagement"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO30",
+    "ngoName": "Green Earth Warriors (Uttarakhand chapter)",
+    "headquarters": null,
+    "workingDistricts": ["Dehradun", "Nainital"],
+    "focusAreas": ["Afforestation", "Climate change awareness"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO31",
+    "ngoName": "Himalayan Forest Conservation Network (HFCN)",
+    "headquarters": null,
+    "workingDistricts": ["Pauri Garhwal", "Tehri Garhwal"],
+    "focusAreas": ["Forest conservation", "Policy advocacy"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO32",
+    "ngoName": "Eco Guardians of Uttarakhand",
+    "headquarters": null,
+    "workingDistricts": ["Haridwar", "Nainital"],
+    "focusAreas": ["Afforestation", "Environmental education"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO33",
+    "ngoName": "Himalayan Forest Conservation Foundation (HFCF)",
+    "headquarters": null,
+    "workingDistricts": ["Uttarkashi", "Pauri Garhwal"],
+    "focusAreas": ["Forest conservation", "Biodiversity research"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO34",
+    "ngoName": "Green Earth Warriors (Uttarakhand chapter)",
+    "headquarters": null,
+    "workingDistricts": ["Almora", "Bageshwar"],
+    "focusAreas": ["Afforestation", "Climate change awareness"],
+    "email": null,
+    "website": null
+  },
+  {
+    "ngoId": "UKNGO35",
+    "ngoName": "Himalayan Forest Restoration Network (HFRN)",
+    "headquarters": null,
+    "workingDistricts": ["Tehri Garhwal", "Pauri Garhwal"],
+    "focusAreas": ["Forest restoration", "Community engagement"],
+    "email": null,
+    "website": null
+  }
+]

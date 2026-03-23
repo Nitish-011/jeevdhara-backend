@@ -1,0 +1,119 @@
+[
+  {
+    "departmentId": "UKFD-DIV-01",
+    "name": "Dehradun Forest Division",
+    "level": "Division",
+    "address": "Kaulagarh Road / Rajpur Road area, Dehradun, Uttarakhand",
+    "phone": "+91-135-2757138",
+    "email": "dfodehradun@gmail.com",
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-02",
+    "name": "Mussoorie Forest Division",
+    "level": "Division",
+    "address": "Mussoorie, Dehradun District, Uttarakhand",
+    "phone": "+91-135-2632156",
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-03",
+    "name": "Chakrata Forest Division",
+    "level": "Division",
+    "address": "Chakrata, Dehradun District, Uttarakhand 248123",
+    "phone": "+91-1360-272045",
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-04",
+    "name": "Tehri Forest Division",
+    "level": "Division",
+    "address": "New Tehri, Tehri Garhwal, Uttarakhand",
+    "phone": "+91-9759944475",
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-05",
+    "name": "Narendranagar Forest Division",
+    "level": "Division",
+    "address": "Narendranagar, Tehri Garhwal, Uttarakhand",
+    "phone": "+91-9759944475",
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-06",
+    "name": "Pauri Garhwal Forest Division",
+    "level": "Division",
+    "address": "Pauri, Pauri Garhwal District, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-07",
+    "name": "Haridwar Forest Division",
+    "level": "Division",
+    "address": "Haridwar, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-08",
+    "name": "Uttarkashi Forest Division",
+    "level": "Division",
+    "address": "Uttarkashi, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-09",
+    "name": "Almora Forest Division",
+    "level": "Division",
+    "address": "Almora, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-10",
+    "name": "Nainital Forest Division",
+    "level": "Division",
+    "address": "Nainital, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-11",
+    "name": "Haldwani Forest Division",
+    "level": "Division",
+    "address": "Haldwani, Nainital District, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-12",
+    "name": "Champawat Forest Division",
+    "level": "Division",
+    "address": "Champawat, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  },
+  {
+    "departmentId": "UKFD-DIV-13",
+    "name": "Bageshwar Forest Division",
+    "level": "Division",
+    "address": "Bageshwar, Uttarakhand",
+    "phone": null,
+    "email": null,
+    "website": "https://forest.uk.gov.in"
+  }
+]

@@ -1,0 +1,541 @@
+{
+  "Uttarkashi": [
+    {
+      "speciesId": "UK-UTK-FL-01",
+      "commonName": "Himalayan Yew",
+      "scientificName": "Taxus wallichiana",
+      "category": "Endangered",
+      "habitat": "Montane conifer forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Overharvesting"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Taxus_wallichiana_1zz.jpg"
+    },
+    {
+      "speciesId": "UK-UTK-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-UTK-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Almora": [
+    {
+      "speciesId": "UK-ALM-FL-01",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "UK-ALM-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-ALM-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Pauri Garhwal": [
+    {
+      "speciesId": "UK-PG-FL-01",
+      "commonName": "Banj Oak",
+      "scientificName": "Quercus leucotrichophora",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_leucotrichophora.jpg"
+    },
+    {
+      "speciesId": "UK-PG-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-PG-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Rudraprayag": [
+    {
+      "speciesId": "UK-RPR-FL-01",
+      "commonName": "Himalayan Yew",
+      "scientificName": "Taxus wallichiana",
+      "category": "Endangered",
+      "habitat": "Montane conifer forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Overharvesting"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Taxus_wallichiana_1zz.jpg"
+    },
+    {
+      "speciesId": "UK-RPR-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-RPR-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Tehri Garhwal": [
+    {
+      "speciesId": "UK-TG-FL-01",
+      "commonName": "Banj Oak",
+      "scientificName": "Quercus leucotrichophora",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_leucotrichophora.jpg"
+    },
+    {
+      "speciesId": "UK-TG-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-TG-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Chamoli": [
+    {
+      "speciesId": "UK-CHM-FL-01",
+      "commonName": "Brahma Kamal",
+      "scientificName": "Saussurea obvallata",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected medicinal plant",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Kamal_Saussurea_obvallata.jpg"
+    },
+    {
+      "speciesId": "UK-CHM-FL-02",
+      "commonName": "Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "UK-CHM-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    }
+  ],
+
+  "Nainital": [
+    {
+      "speciesId": "UK-NNT-FL-01",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "UK-NNT-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-NNT-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Dehradun": [
+    {
+      "speciesId": "UK-DHN-FL-01",
+      "commonName": "Himalayan Yew",
+      "scientificName": "Taxus wallichiana",
+      "category": "Endangered",
+      "habitat": "Montane conifer forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Overharvesting"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Taxus_wallichiana_1zz.jpg"
+    },
+    {
+      "speciesId": "UK-DHN-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-DHN-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Haridwar": [
+    {
+      "speciesId": "UK-HDW-FL-01",
+      "commonName": "Banj Oak",
+      "scientificName": "Quercus leucotrichophora",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_leucotrichophora.jpg"
+    },
+    {
+      "speciesId": "UK-HDW-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-HDW-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Udham Singh Nagar": [
+    {
+      "speciesId": "UK-USN-FL-01",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "UK-USN-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-USN-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Champawat": [
+    {
+      "speciesId": "UK-CHP-FL-01",
+      "commonName": "Banj Oak",
+      "scientificName": "Quercus leucotrichophora",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_leucotrichophora.jpg"
+    },
+    {
+      "speciesId": "UK-CHP-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-CHP-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Bageshwar": [
+    {
+      "speciesId": "UK-BGS-FL-01",
+      "commonName": "Himalayan Yew",
+      "scientificName": "Taxus wallichiana",
+      "category": "Endangered",
+      "habitat": "Montane conifer forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Overharvesting"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Taxus_wallichiana_1zz.jpg"
+    },
+    {
+      "speciesId": "UK-BGS-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-BGS-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Pithoragarh": [
+    {
+      "speciesId": "UK-PTH-FL-01",
+      "commonName": "Banj Oak",
+      "scientificName": "Quercus leucotrichophora",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_leucotrichophora.jpg"
+    },
+    {
+      "speciesId": "UK-PTH-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-PTH-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Rishikesh": [
+    {
+      "speciesId": "UK-RSK-FL-01",
+      "commonName": "Himalayan Yew",
+      "scientificName": "Taxus wallichiana",
+      "category": "Endangered",
+      "habitat": "Montane conifer forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Overharvesting"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Taxus_wallichiana_1zz.jpg"
+    },
+    {
+      "speciesId": "UK-RSK-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-RSK-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Devalsari": [
+    {
+      "speciesId": "UK-DVS-FL-01",
+      "commonName": "Banj Oak",
+      "scientificName": "Quercus leucotrichophora",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_leucotrichophora.jpg"
+    },
+    {
+      "speciesId": "UK-DVS-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis grandis",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_grandis.jpg"
+    },
+    {
+      "speciesId": "UK-DVS-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Uttarakhand"],
+      "threats": ["Habitat loss", "Climate change"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ]
+}

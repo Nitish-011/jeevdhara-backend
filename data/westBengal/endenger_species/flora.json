@@ -1,0 +1,280 @@
+{
+  "Darjeeling": [
+    {
+      "speciesId": "WB-DJ-FL-01",
+      "commonName": "Himalayan Yew",
+      "scientificName": "Taxus wallichiana",
+      "category": "Endangered",
+      "habitat": "Temperate conifer forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Overharvesting"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Taxus_wallichiana_1zz.jpg"
+    },
+    {
+      "speciesId": "WB-DJ-FL-02",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "WB-DJ-FL-03",
+      "commonName": "Brahma Kamal",
+      "scientificName": "Saussurea obvallata",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected medicinal plant",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Kamal_Saussurea_obvallata.jpg"
+    },
+    {
+      "speciesId": "WB-DJ-FL-04",
+      "commonName": "Sal",
+      "scientificName": "Shorea robusta",
+      "category": "Vulnerable",
+      "habitat": "Tropical moist deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg"
+    },
+    {
+      "speciesId": "WB-DJ-FL-05",
+      "commonName": "Sundari Mangrove",
+      "scientificName": "Heritiera fomes",
+      "category": "Endangered",
+      "habitat": "Mangrove forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Salinity increase", "Sea-level rise"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Heritiera_fomes.jpg"
+    }
+  ],
+
+  "Kalimpong": [
+    {
+      "speciesId": "WB-KP-FL-01",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "WB-KP-FL-02",
+      "commonName": "Brahma Kamal",
+      "scientificName": "Saussurea obvallata",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected medicinal plant",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Kamal_Saussurea_obvallata.jpg"
+    },
+    {
+      "speciesId": "WB-KP-FL-03",
+      "commonName": "Sal",
+      "scientificName": "Shorea robusta",
+      "category": "Vulnerable",
+      "habitat": "Tropical moist deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg"
+    },
+    {
+      "speciesId": "WB-KP-FL-04",
+      "commonName": "Sundari Mangrove",
+      "scientificName": "Heritiera fomes",
+      "category": "Endangered",
+      "habitat": "Mangrove forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Salinity increase", "Sea-level rise"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Heritiera_fomes.jpg"
+    },
+    {
+      "speciesId": "WB-KP-FL-05",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    }
+  ],
+
+  "Alipurduar": [
+    {
+      "speciesId": "WB-ALP-FL-01",
+      "commonName": "Sal",
+      "scientificName": "Shorea robusta",
+      "category": "Vulnerable",
+      "habitat": "Tropical moist deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg"
+    },
+    {
+      "speciesId": "WB-ALP-FL-02",
+      "commonName": "Sundari Mangrove",
+      "scientificName": "Heritiera fomes",
+      "category": "Endangered",
+      "habitat": "Mangrove forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Salinity increase", "Sea-level rise"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Heritiera_fomes.jpg"
+    },
+    {
+      "speciesId": "WB-ALP-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    },
+    {
+      "speciesId": "WB-ALP-FL-04",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "WB-ALP-FL-05",
+      "commonName": "Brahma Kamal",
+      "scientificName": "Saussurea obvallata",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected medicinal plant",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Kamal_Saussurea_obvallata.jpg"
+    }
+  ],
+
+  "South 24 Parganas": [
+    {
+      "speciesId": "WB-S24-FL-01",
+      "commonName": "Sundari Mangrove",
+      "scientificName": "Heritiera fomes",
+      "category": "Endangered",
+      "habitat": "Mangrove forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Salinity increase", "Sea-level rise"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Heritiera_fomes.jpg"
+    },
+    {
+      "speciesId": "WB-S24-FL-02",
+      "commonName": "Sal",
+      "scientificName": "Shorea robusta",
+      "category": "Vulnerable",
+      "habitat": "Tropical moist deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg"
+    },
+    {
+      "speciesId": "WB-S24-FL-03",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    },
+    {
+      "speciesId": "WB-S24-FL-04",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "WB-S24-FL-05",
+      "commonName": "Brahma Kamal",
+      "scientificName": "Saussurea obvallata",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected medicinal plant",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Kamal_Saussurea_obvallata.jpg"
+    }
+  ],
+
+  "Bankura": [
+    {
+      "speciesId": "WB-BNK-FL-01",
+      "commonName": "Mahua",
+      "scientificName": "Madhuca longifolia",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Overexploitation"],
+      "conservationStatus": "Regionally important species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Madhuca_longifolia.jpg"
+    },
+    {
+      "speciesId": "WB-BNK-FL-02",
+      "commonName": "Sal",
+      "scientificName": "Shorea robusta",
+      "category": "Vulnerable",
+      "habitat": "Tropical moist deciduous forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg"
+    },
+    {
+      "speciesId": "WB-BNK-FL-03",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["West Bengal"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "WB-BNK-FL-04",
+      "commonName": "Brahma Kamal",
+      "scientificName": "Saussurea obvallata",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows",
+      "statesFound": ["West Bengal"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected medicinal plant",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Kamal_Saussurea_obvallata.jpg"
+    }
+  ]
+}

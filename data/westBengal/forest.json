@@ -1,0 +1,136 @@
+{
+  "forests": [
+    {
+      "forestId": "WBF01",
+      "forestName": "Sundarbans National Park",
+      "state": "West Bengal",
+      "district": "South 24 Parganas",
+      "forestType": "Mangrove Forest",
+      "latitude": 21.9497,
+      "longitude": 89.1833,
+      "protectedStatus": true,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "WBF02",
+      "forestName": "Buxa Tiger Reserve",
+      "state": "West Bengal",
+      "district": "Alipurduar",
+      "forestType": "Tropical Moist Evergreen Forest",
+      "latitude": 26.7,
+      "longitude": 89.55,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "WBF03",
+      "forestName": "Gorumara National Park",
+      "state": "West Bengal",
+      "district": "Jalpaiguri",
+      "forestType": "Tropical Moist Deciduous Forest",
+      "latitude": 26.76,
+      "longitude": 88.79,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "WBF04",
+      "forestName": "Neora Valley National Park",
+      "state": "West Bengal",
+      "district": "Kalimpong",
+      "forestType": "Subtropical & Temperate Forest",
+      "latitude": 27.13,
+      "longitude": 88.73,
+      "protectedStatus": true,
+      "deforestationRisk": "low"
+    },
+    {
+      "forestId": "WBF05",
+      "forestName": "Jaldapara National Park",
+      "state": "West Bengal",
+      "district": "Alipurduar",
+      "forestType": "Riverine Grassland & Forest",
+      "latitude": 26.65,
+      "longitude": 89.3,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "WBF06",
+      "forestName": "Mahananda Wildlife Sanctuary",
+      "state": "West Bengal",
+      "district": "Darjeeling",
+      "forestType": "Tropical Moist Deciduous Forest",
+      "latitude": 26.7,
+      "longitude": 88.45,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "WBF07",
+      "forestName": "Singalila National Park",
+      "state": "West Bengal",
+      "district": "Darjeeling",
+      "forestType": "Subtropical & Temperate Forest",
+      "latitude": 27.0,
+      "longitude": 88.15,
+      "protectedStatus": true,
+      "deforestationRisk": "low"
+    },
+    {
+      "forestId": "WBF08",
+      "forestName": "Sajnekhali Wildlife Sanctuary",
+      "state": "West Bengal",
+      "district": "South 24 Parganas",
+      "forestType": "Mangrove Forest",
+      "latitude": 21.95,
+      "longitude": 89.2,
+      "protectedStatus": true,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "WBF09",
+      "forestName": "Bibhutibhushan Wildlife Sanctuary",
+      "state": "West Bengal",
+      "district": "North 24 Parganas",
+      "forestType": null, 
+      "latitude": 22.7,
+      "longitude": 88.45,
+      "protectedStatus": true,
+      "deforestationRisk": "medium"
+    },
+    {
+      "forestId": "WBF10",
+      "forestName": "Gorumara National Park Buffer Zone",
+      "state": "West Bengal",
+      "district": "Jalpaiguri",
+      "forestType": null, 
+      "latitude": 26.75,
+      "longitude": 88.8,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "WBF11",
+      "forestName": "Sundarbans Buffer Zone",
+      "state": "West Bengal",
+      "district": "South 24 Parganas",
+      "forestType": null,
+      "latitude": 21.95,
+      "longitude": 89.25,
+      "protectedStatus": false,
+      "deforestationRisk": "high"
+    },
+    {
+      "forestId": "WBF12",
+      "forestName": "Mahananda Riverine Forest",
+      "state": "West Bengal",
+      "district": "Darjeeling",
+      "forestType": null, 
+      "latitude": 26.7,
+      "longitude": 88.5,
+      "protectedStatus": false,
+      "deforestationRisk": "medium"
+    }
+  ]
+}

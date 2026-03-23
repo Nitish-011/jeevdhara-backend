@@ -1,0 +1,613 @@
+{
+  "Hoshiarpur": [
+    {
+      "speciesId": "PB-HSP-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-HSP-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-HSP-FN-03",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    }
+  ],
+
+  "Rupnagar": [
+    {
+      "speciesId": "PB-RPN-FN-01",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    },
+    {
+      "speciesId": "PB-RPN-FN-02",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-RPN-FN-03",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    }
+  ],
+
+  "Fazilka": [
+    {
+      "speciesId": "PB-FZK-FN-01",
+      "commonName": "Blackbuck",
+      "scientificName": "Antilope cervicapra",
+      "category": "Near Threatened",
+      "habitat": "Grasslands and agricultural edges",
+      "statesFound": ["Punjab"],
+      "threats": ["Habitat loss", "Fencing"],
+      "conservationStatus": "Schedule I (India)",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Blackbuck_(Antilope_cervicapra)_male.jpg"
+    },
+    {
+      "speciesId": "PB-FZK-FN-02",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-FZK-FN-03",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    }
+  ],
+
+  "Tarn Taran": [
+    {
+      "speciesId": "PB-TTN-FN-01",
+      "commonName": "Smooth-coated Otter",
+      "scientificName": "Lutrogale perspicillata",
+      "category": "Vulnerable",
+      "habitat": "Rivers and wetlands",
+      "statesFound": ["Punjab"],
+      "threats": ["Wetland degradation", "Water pollution"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Smooth-coated_otter.jpg"
+    },
+    {
+      "speciesId": "PB-TTN-FN-02",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-TTN-FN-03",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    }
+  ],
+
+  "Kapurthala": [
+    {
+      "speciesId": "PB-KPT-FN-01",
+      "commonName": "Indian Softshell Turtle",
+      "scientificName": "Nilssonia gangetica",
+      "category": "Vulnerable",
+      "habitat": "Rivers and wetlands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal harvesting", "River pollution"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_softshell_turtle.jpg"
+    },
+    {
+      "speciesId": "PB-KPT-FN-02",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-KPT-FN-03",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    }
+  ],
+
+  "Gurdaspur": [
+    {
+      "speciesId": "PB-GDP-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-GDP-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-GDP-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Pathankot": [
+    {
+      "speciesId": "PB-PTK-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-PTK-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-PTK-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Jalandhar": [
+    {
+      "speciesId": "PB-JLD-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-JLD-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-JLD-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Amritsar": [
+    {
+      "speciesId": "PB-AMR-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-AMR-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-AMR-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Barnala": [
+    {
+      "speciesId": "PB-BRL-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-BRL-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-BRL-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Mansa": [
+    {
+      "speciesId": "PB-MNS-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-MNS-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-MNS-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Sangrur": [
+    {
+      "speciesId": "PB-SGR-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-SGR-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-SGR-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "S.A.S. Nagar": [
+    {
+      "speciesId": "PB-SAS-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-SAS-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-SAS-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Ferozepur": [
+    {
+      "speciesId": "PB-FZR-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-FZR-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-FZR-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Bathinda": [
+    {
+      "speciesId": "PB-BTN-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-BTN-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-BTN-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Ludhiana": [
+    {
+      "speciesId": "PB-LDH-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-LDH-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-LDH-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ],
+
+  "Moga": [
+    {
+      "speciesId": "PB-MGA-FN-01",
+      "commonName": "Indian Pangolin",
+      "scientificName": "Manis crassicaudata",
+      "category": "Endangered",
+      "habitat": "Shivalik foothill forests and scrub",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal wildlife trade", "Habitat loss"],
+      "conservationStatus": "IUCN: Endangered | Schedule I",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pangolin_(Manis_crassicaudata).jpg"
+    },
+    {
+      "speciesId": "PB-MGA-FN-02",
+      "commonName": "Indian Star Tortoise",
+      "scientificName": "Geochelone elegans",
+      "category": "Vulnerable",
+      "habitat": "Dry forests and scrublands",
+      "statesFound": ["Punjab"],
+      "threats": ["Illegal pet trade", "Habitat degradation"],
+      "conservationStatus": "IUCN: Vulnerable | Schedule IV",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_star_tortoise.jpg"
+    },
+    {
+      "speciesId": "PB-MGA-FN-03",
+      "commonName": "Leopard",
+      "scientificName": "Panthera pardus",
+      "category": "Vulnerable",
+      "habitat": "Shivalik hills and forest patches",
+      "statesFound": ["Punjab"],
+      "threats": ["Human–wildlife conflict"],
+      "conservationStatus": "IUCN: Vulnerable",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Indian_leopard.jpg"
+    }
+  ]
+}

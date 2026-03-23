@@ -1,0 +1,175 @@
+{
+  "ngos": [
+    {
+      "ngoId": "BRNGO01",
+      "ngoName": "Balipara Foundation (Eastern India Projects)",
+      "workingDistricts": ["West Champaran", "Kaimur"],
+      "focusAreas": ["Landscape restoration", "Community forestry"]
+    },
+    {
+      "ngoId": "BRNGO02",
+      "ngoName": "Ganga Action Network",
+      "workingDistricts": ["Patna", "Bhagalpur"],
+      "focusAreas": ["Riverine restoration", "Afforestation"]
+    },
+    {
+      "ngoId": "BRNGO03",
+      "ngoName": "Tarumitra",
+      "workingDistricts": ["Patna", "Nalanda"],
+      "focusAreas": ["Tree plantation", "Environmental awareness"]
+    },
+    {
+      "ngoId": "BRNGO04",
+      "ngoName": "Bihar Rural Livelihoods Promotion Society (JEEViKA)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": [
+        "Sustainable agriculture",
+        "Community-based natural resource management"
+      ]
+    },
+    {
+      "ngoId": "BRNGO05",
+      "ngoName": "Vikramshila Biodiversity Research and Education Centre",
+      "workingDistricts": ["Bhagalpur"],
+      "focusAreas": ["Biodiversity conservation", "Environmental education"]
+    },
+    {
+      "ngoId": "BRNGO06",
+      "ngoName": "Bihar Voluntary Health Association (BVHA)",
+      "workingDistricts": ["Patna", "Gaya"],
+      "focusAreas": ["Health and environment", "Community engagement"]
+    },
+    {
+      "ngoId": "BRNGO07",
+      "ngoName": "Bihar State Pollution Control Board (BSPCB)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Pollution control", "Environmental monitoring"]
+    },
+    {
+      "ngoId": "BRNGO08",
+      "ngoName": "Bihar State Biodiversity Board (BSBB)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Biodiversity conservation", "Ecosystem restoration"]
+    },
+    {
+      "ngoId": "BRNGO09",
+      "ngoName": "Bihar State Disaster Management Authority (BSDMA)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Disaster resilience", "Climate adaptation"]
+    },
+    {
+      "ngoId": "BRNGO10",
+      "ngoName": "Bihar State Renewable Energy Development Agency (BREDA)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Renewable energy promotion", "Sustainable development"]
+    },
+    {
+      "ngoId": "BRNGO11",
+      "ngoName": "Bihar State Water Resources Department (BSWRD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Water resource management", "Irrigation development"]
+    },
+    {
+      "ngoId": "BRNGO12",
+      "ngoName": "Bihar State Forest Development Corporation (BSFDC)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Forest management", "Afforestation projects"]
+    },
+    {
+      "ngoId": "BRNGO13",
+      "ngoName": "Bihar State Environment Department (BSED)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Environmental policy", "Regulatory enforcement"]
+    },
+    {
+      "ngoId": "BRNGO14",
+      "ngoName": "Bihar State Agriculture Department (BSAD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Sustainable agriculture", "Agroforestry promotion"]
+    },
+    {
+      "ngoId": "BRNGO15",
+      "ngoName": "Bihar State Rural Development Department (BSRDD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": [
+        "Rural development",
+        "Community-based natural resource management"
+      ]
+    },
+    {
+      "ngoId": "BRNGO16",
+      "ngoName": "Bihar State Energy Development Agency (BSEDA)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Energy efficiency", "Renewable energy promotion"]
+    },
+    {
+      "ngoId": "BRNGO17",
+      "ngoName": "Bihar State Tourism Development Corporation (BSTDC)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Eco-tourism promotion", "Sustainable tourism development"]
+    },
+    {
+      "ngoId": "BRNGO18",
+      "ngoName": "Bihar State Urban Development Authority (BSUDA)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Urban planning", "Green infrastructure development"]
+    },
+    {
+      "ngoId": "BRNGO19",
+      "ngoName": "Bihar State Transport Department (BSTD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Sustainable transportation", "Public transit promotion"]
+    },
+    {
+      "ngoId": "BRNGO20",
+      "ngoName": "Bihar State Education Department (BSED)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": [
+        "Environmental education",
+        "Sustainability curriculum development"
+      ]
+    },
+    {
+      "ngoId": "BRNGO21",
+      "ngoName": "Bihar State Health Department (BSHD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Health and environment", "Community health promotion"]
+    },
+    {
+      "ngoId": "BRNGO22",
+      "ngoName": "Bihar State Social Welfare Department (BSSWD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Social welfare programs", "Community development"]
+    },
+    {
+      "ngoId": "BRNGO23",
+      "ngoName": "Bihar State Women and Child Development Department (BSWCDD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Women empowerment", "Child welfare programs"]
+    },
+    {
+      "ngoId": "BRNGO24",
+      "ngoName": "Bihar State Minority Welfare Department (BSMWD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": ["Minority welfare programs", "Community development"]
+    },
+    {
+      "ngoId": "BRNGO25",
+      "ngoName": "Bihar State Scheduled Castes and Scheduled Tribes Welfare Department (BSSCTWD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": [
+        "Scheduled Castes and Scheduled Tribes welfare programs",
+        "Community development"
+      ]
+    },
+    {
+      "ngoId": "BRNGO26",
+      "ngoName": "Bihar State Backward Classes Welfare Department (BSBCWD)",
+      "workingDistricts": ["ALL"],
+      "focusAreas": [
+        "Backward Classes welfare programs",
+        "Community development"
+      ]
+    }
+  ]
+}

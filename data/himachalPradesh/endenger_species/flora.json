@@ -1,0 +1,367 @@
+{
+  "Kinnaur": [
+    {
+      "speciesId": "HP-KN-FL-01",
+      "commonName": "Brahma Kamal",
+      "scientificName": "Saussurea obvallata",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected medicinal plant",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Kamal_Saussurea_obvallata.jpg"
+    },
+    {
+      "speciesId": "HP-KN-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-KN-FL-03",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Kullu": [
+    {
+      "speciesId": "HP-KU-FL-01",
+      "commonName": "Himalayan Yew",
+      "scientificName": "Taxus wallichiana",
+      "category": "Endangered",
+      "habitat": "Montane conifer forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Overharvesting for medicine"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Taxus_wallichiana_1zz.jpg"
+    },
+    {
+      "speciesId": "HP-KU-FL-02",
+      "commonName": "Himalayan Birch",
+      "scientificName": "Betula utilis",
+      "category": "Vulnerable",
+      "habitat": "Subalpine and alpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Deforestation", "Climate change"],
+      "conservationStatus": "Regionally threatened",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Betula_utilis.jpg"
+    },
+    {
+      "speciesId": "HP-KU-FL-03",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    }
+  ],
+
+  "Chamba": [
+    {
+      "speciesId": "HP-CH-FL-01",
+      "commonName": "Deodar",
+      "scientificName": "Cedrus deodara",
+      "category": "Vulnerable",
+      "habitat": "Temperate conifer forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Logging"],
+      "conservationStatus": "Regionally threatened",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Cedrus_deodara_A.jpg"
+    },
+    {
+      "speciesId": "HP-CH-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-CH-FL-03",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Shimla": [
+    {
+      "speciesId": "HP-SH-FL-01",
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron arboreum",
+      "category": "Vulnerable",
+      "habitat": "Temperate broadleaf forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss"],
+      "conservationStatus": "Regionally monitored",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum.jpg"
+    },
+    {
+      "speciesId": "HP-SH-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-SH-FL-03",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Sirmaur": [
+    {
+      "speciesId": "HP-SR-FL-01",
+      "commonName": "Oak",
+      "scientificName": "Quercus spp.",
+      "category": "Vulnerable",
+      "habitat": "Temperate forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Quercus_robur_leaves.jpg"
+    },
+    {
+      "speciesId": "HP-SR-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-SR-FL-03",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Mandi": [
+    {
+      "speciesId": "HP-MA-FL-01",
+      "commonName": "Pine",
+      "scientificName": "Pinus spp.",
+      "category": "Vulnerable",
+      "habitat": "Montane conifer forests",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Deforestation"],
+      "conservationStatus": "Regional conservation concern",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Pinus_sylvestris.jpg"
+    },
+    {
+      "speciesId": "HP-MA-FL-02",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-MA-FL-03",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "LahaulSpiti": [
+    {
+      "speciesId": "HP-LS-FL-01",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-LS-FL-02",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Solan": [
+    {
+      "speciesId": "HP-SO-FL-01",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-SO-FL-02",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Bilaspur": [
+    {
+      "speciesId": "HP-BI-FL-01",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-BI-FL-02",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Hamirpur": [
+    {
+      "speciesId": "HP-HA-FL-01",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-HA-FL-02",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Una": [
+    {
+      "speciesId": "HP-UN-FL-01",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-UN-FL-02",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ],
+
+  "Kangra": [
+    {
+      "speciesId": "HP-KA-FL-01",
+      "commonName": "Himalayan Blue Poppy",
+      "scientificName": "Meconopsis betonicifolia",
+      "category": "Endangered",
+      "habitat": "Alpine and subalpine zones",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Habitat loss", "Over-collection"],
+      "conservationStatus": "IUCN: Endangered",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Meconopsis_betonicifolia.jpg"
+    },
+    {
+      "speciesId": "HP-KA-FL-02",
+      "commonName": "Himalayan Edelweiss",
+      "scientificName": "Leontopodium alpinum",
+      "category": "Vulnerable",
+      "habitat": "Alpine meadows and rocky slopes",
+      "statesFound": ["Himachal Pradesh"],
+      "threats": ["Over-collection", "Climate change"],
+      "conservationStatus": "Protected species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Leontopodium_alpinum.jpg"
+    }
+  ]
+}

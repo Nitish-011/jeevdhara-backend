@@ -1,0 +1,56 @@
+{
+  "forestDepartment": {
+    "departmentId": "PBFD-STATE",
+    "name": "Punjab Forest Department",
+    "headOffice": "Chandigarh",
+    "website": "https://forest.punjab.gov.in",
+    "phone": "+91-172-274-1234",
+    "email": "info@forest.punjab.gov.in",
+    "functions": [
+      "Forest conservation and management",
+      "Afforestation and reforestation",
+      "Wildlife protection",
+      "Forest fire management",
+      "Community engagement and awareness",
+      "Research and monitoring"
+    ],
+    "initiatives": [
+      {
+        "initiativeId": "PBFD-001",
+        "name": "Green Punjab Mission",
+        "description": "A state-wide afforestation campaign aimed at increasing forest cover and promoting biodiversity conservation.",
+        "startDate": "2022-01-01",
+        "endDate": "2025-12-31",
+        "status": "ongoing",
+        "objectives": [
+          "Plant 10 million trees across the state",
+          "Promote community participation in tree planting",
+          "Enhance biodiversity and ecosystem services"
+        ],
+        "partners": [
+          "Punjab State Biodiversity Board",
+          "Punjab Pollution Control Board",
+          "Local NGOs and community groups"
+        ]
+      },
+      {
+        "initiativeId": "PBFD-002",
+        "name": "Wildlife Protection Program",
+        "description": "A program focused on protecting endangered wildlife species and their habitats in Punjab.",
+        "startDate": "2021-06-01",
+        "endDate": "2024-05-31",
+        "status": "ongoing",
+        "objectives": [
+          "Strengthen anti-poaching measures",
+          "Enhance habitat protection and restoration",
+          "Promote wildlife conservation awareness"
+        ],
+        "partners": [
+          "Punjab Wildlife Department",
+          "Local law enforcement agencies",
+          "Wildlife conservation NGOs"
+        ]
+      }
+    ]
+  }
+}

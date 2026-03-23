@@ -1,0 +1,453 @@
+{
+  "forestDepartment": {
+    "departmentId": "HPFD-STATE",
+    "name": "Himachal Pradesh Forest Department",
+    "level": "State",
+    "headOffice": {
+      "address": "Talland, Shimla, Himachal Pradesh 171002, India",
+      "city": "Shimla",
+      "website": "https://hpforest.nic.in"
+    },
+    "forestDivisions": [
+      {
+        "divisionId": "HPFD-DIV-01",
+        "divisionName": "Shimla Forest Division",
+        "district": "Shimla",
+        "circle": "Shimla Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-02",
+        "divisionName": "Rampur Forest Division",
+        "district": "Shimla",
+        "circle": "Shimla Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-03",
+        "divisionName": "Rohru Forest Division",
+        "district": "Shimla",
+        "circle": "Shimla Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-04",
+        "divisionName": "Solan Forest Division",
+        "district": "Solan",
+        "circle": "Solan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-05",
+        "divisionName": "Nahan Forest Division",
+        "district": "Sirmaur",
+        "circle": "Nahan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-06",
+        "divisionName": "Bilaspur Forest Division",
+        "district": "Bilaspur",
+        "circle": "Bilaspur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-07",
+        "divisionName": "Una Forest Division",
+        "district": "Una",
+        "circle": "Una Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-08",
+        "divisionName": "Hamirpur Forest Division",
+        "district": "Hamirpur",
+        "circle": "Hamirpur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-09",
+        "divisionName": "Dharamshala Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-10",
+        "divisionName": "Palampur Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-11",
+        "divisionName": "Nurpur Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-12",
+        "divisionName": "Chamba Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-13",
+        "divisionName": "Dalhousie Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-14",
+        "divisionName": "Kullu Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-15",
+        "divisionName": "Banjar Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-16",
+        "divisionName": "Mandi Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-17",
+        "divisionName": "Sundernagar Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-18",
+        "divisionName": "Kinnaur Forest Division",
+        "district": "Kinnaur",
+        "circle": "Rampur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-19",
+        "divisionName": "Keylong Forest Division",
+        "district": "Lahaul and Spiti",
+        "circle": "Keylong Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-20",
+        "divisionName": "Spiti Forest Division",
+        "district": "Lahaul and Spiti",
+        "circle": "Keylong Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-21",
+        "divisionName": "Rampur Forest Division",
+        "district": "Shimla",
+        "circle": "Shimla Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-22",
+        "divisionName": "Chamba Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-23",
+        "divisionName": "Kullu Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-24",
+        "divisionName": "Mandi Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-25",
+        "divisionName": "Sirmaur Forest Division",
+        "district": "Sirmaur",
+        "circle": "Nahan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-26",
+        "divisionName": "Solan Forest Division",
+        "district": "Solan",
+        "circle": "Solan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-27",
+        "divisionName": "Bilaspur Forest Division",
+        "district": "Bilaspur",
+        "circle": "Bilaspur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-28",
+        "divisionName": "Una Forest Division",
+        "district": "Una",
+        "circle": "Una Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-29",
+        "divisionName": "Hamirpur Forest Division",
+        "district": "Hamirpur",
+        "circle": "Hamirpur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-30",
+        "divisionName": "Dharamshala Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-31",
+        "divisionName": "Palampur Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-32",
+        "divisionName": "Nurpur Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-33",
+        "divisionName": "Chamba Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-34",
+        "divisionName": "Dalhousie Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-35",
+        "divisionName": "Kullu Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-36",
+        "divisionName": "Banjar Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-37",
+        "divisionName": "Mandi Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-38",
+        "divisionName": "Sundernagar Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-39",
+        "divisionName": "Kinnaur Forest Division",
+        "district": "Kinnaur",
+        "circle": "Rampur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-40",
+        "divisionName": "Keylong Forest Division",
+        "district": "Lahaul and Spiti",
+        "circle": "Keylong Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-41",
+        "divisionName": "Spiti Forest Division",
+        "district": "Lahaul and Spiti",
+        "circle": "Keylong Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-42",
+        "divisionName": "Rampur Forest Division",
+        "district": "Shimla",
+        "circle": "Shimla Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-43",
+        "divisionName": "Chamba Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-44",
+        "divisionName": "Kullu Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-45",
+        "divisionName": "Mandi Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-46",
+        "divisionName": "Sirmaur Forest Division",
+        "district": "Sirmaur",
+        "circle": "Nahan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-47",
+        "divisionName": "Solan Forest Division",
+        "district": "Solan",
+        "circle": "Solan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-48",
+        "divisionName": "Bilaspur Forest Division",
+        "district": "Bilaspur",
+        "circle": "Bilaspur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-49",
+        "divisionName": "Una Forest Division",
+        "district": "Una",
+        "circle": "Una Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-50",
+        "divisionName": "Hamirpur Forest Division",
+        "district": "Hamirpur",
+        "circle": "Hamirpur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-51",
+        "divisionName": "Dharamshala Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-52",
+        "divisionName": "Palampur Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-53",
+        "divisionName": "Nurpur Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-54",
+        "divisionName": "Chamba Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-55",
+        "divisionName": "Dalhousie Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-56",
+        "divisionName": "Kullu Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-57",
+        "divisionName": "Banjar Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-58",
+        "divisionName": "Mandi Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-59",
+        "divisionName": "Sundernagar Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-60",
+        "divisionName": "Kinnaur Forest Division",
+        "district": "Kinnaur",
+        "circle": "Rampur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-61",
+        "divisionName": "Keylong Forest Division",
+        "district": "Lahaul and Spiti",
+        "circle": "Keylong Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-62",
+        "divisionName": "Spiti Forest Division",
+        "district": "Lahaul and Spiti",
+        "circle": "Keylong Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-63",
+        "divisionName": "Rampur Forest Division",
+        "district": "Shimla",
+        "circle": "Shimla Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-64",
+        "divisionName": "Chamba Forest Division",
+        "district": "Chamba",
+        "circle": "Chamba Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-65",
+        "divisionName": "Kullu Forest Division",
+        "district": "Kullu",
+        "circle": "Kullu Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-66",
+        "divisionName": "Mandi Forest Division",
+        "district": "Mandi",
+        "circle": "Mandi Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-67",
+        "divisionName": "Sirmaur Forest Division",
+        "district": "Sirmaur",
+        "circle": "Nahan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-68",
+        "divisionName": "Solan Forest Division",
+        "district": "Solan",
+        "circle": "Solan Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-69",
+        "divisionName": "Bilaspur Forest Division",
+        "district": "Bilaspur",
+        "circle": "Bilaspur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-70",
+        "divisionName": "Una Forest Division",
+        "district": "Una",
+        "circle": "Una Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-71",
+        "divisionName": "Hamirpur Forest Division",
+        "district": "Hamirpur",
+        "circle": "Hamirpur Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-72",
+        "divisionName": "Dharamshala Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      },
+      {
+        "divisionId": "HPFD-DIV-73",
+        "divisionName": "Palampur Forest Division",
+        "district": "Kangra",
+        "circle": "Dharamshala Circle"
+      }
+    ],
+    "note": "This is a scalable list of major territorial forest divisions. The system supports adding additional divisions, ranges, and beats as per official notifications."
+  }
+}

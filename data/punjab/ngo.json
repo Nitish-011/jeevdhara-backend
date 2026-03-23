@@ -1,0 +1,324 @@
+{
+  "ngos": [
+    {
+      "ngoId": "PBNGO01",
+      "ngoName": "Kheti Virasat Mission",
+      "workingDistricts": ["Patiala", "Ludhiana", "Sangrur"],
+      "focusAreas": ["Agroforestry", "Sustainable farming"]
+    },
+    {
+      "ngoId": "PBNGO02",
+      "ngoName": "EcoSikh",
+      "workingDistricts": ["Amritsar", "Tarn Taran"],
+      "focusAreas": ["Tree plantation", "Faith-based conservation"]
+    },
+    {
+      "ngoId": "PBNGO03",
+      "ngoName": "Punjab Pollution Control NGO Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Environment restoration", "Awareness"]
+    },
+    {
+      "ngoId": "PBNGO04",
+      "ngoName": "Green Punjab Foundation",
+      "workingDistricts": ["Chandigarh", "Mohali"],
+      "focusAreas": ["Urban forestry", "Community engagement"]
+    },
+    {
+      "ngoId": "PBNGO05",
+      "ngoName": "Punjab Biodiversity Conservation Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Biodiversity research", "Conservation"]
+    },
+    {
+      "ngoId": "PBNGO06",
+      "ngoName": "Punjab Forest Protection Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest monitoring", "Anti-poaching"]
+    },
+    {
+      "ngoId": "PBNGO07",
+      "ngoName": "Punjab Green Earth Warriors",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Environmental education", "Advocacy"]
+    },
+    {
+      "ngoId": "PBNGO08",
+      "ngoName": "Punjab Forest Restoration Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Afforestation", "Reforestation"]
+    },
+    {
+      "ngoId": "PBNGO09",
+      "ngoName": "Punjab Eco-Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Eco-development", "Community engagement"]
+    },
+    {
+      "ngoId": "PBNGO10",
+      "ngoName": "Punjab Forest Research and Conservation Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest research", "Conservation"]
+    },
+    {
+      "ngoId": "PBNGO11",
+      "ngoName": "Punjab Green Earth Conservation Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Afforestation", "Reforestation"]
+    },
+    {
+      "ngoId": "PBNGO12",
+      "ngoName": "Punjab Forest Conservation Warriors",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest conservation", "Sustainable management"]
+    },
+    {
+      "ngoId": "PBNGO13",
+      "ngoName": "Punjab Eco-Action Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Community-based forest management"]
+    },
+    {
+      "ngoId": "PBNGO14",
+      "ngoName": "Punjab Forest Protection Warriors",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest monitoring", "Protection"]
+    },
+    {
+      "ngoId": "PBNGO15",
+      "ngoName": "Punjab Green Earth Action Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Environmental education", "Advocacy"]
+    },
+    {
+      "ngoId": "PBNGO16",
+      "ngoName": "Punjab Forest Conservation and Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest conservation", "Development"]
+    },
+    {
+      "ngoId": "PBNGO17",
+      "ngoName": "Punjab Eco-Development and Conservation Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Eco-development", "Conservation"]
+    },
+    {
+      "ngoId": "PBNGO18",
+      "ngoName": "Punjab Green Future Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Sustainable development", "Climate action"]
+    },
+    {
+      "ngoId": "PBNGO19",
+      "ngoName": "Punjab Forest Research and Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest research", "Development"]
+    },
+    {
+      "ngoId": "PBNGO20",
+      "ngoName": "Punjab Green Earth Warriors Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Environmental education", "Advocacy"]
+    },
+    {
+      "ngoId": "PBNGO21",
+      "ngoName": "Punjab Forest Conservation and Restoration Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest conservation", "Restoration"]
+    },
+    {
+      "ngoId": "PBNGO22",
+      "ngoName": "Punjab Eco-Action and Conservation Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Community-based forest management", "Conservation"]
+    },
+    {
+      "ngoId": "PBNGO23",
+      "ngoName": "Punjab Forest Protection and Conservation Warriors",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest monitoring", "Protection", "Conservation"]
+    },
+    {
+      "ngoId": "PBNGO24",
+      "ngoName": "Punjab Green Earth Conservation and Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": [
+        "Afforestation",
+        "Reforestation",
+        "Sustainable development"
+      ]
+    },
+    {
+      "ngoId": "PBNGO25",
+      "ngoName": "Punjab Forest Conservation and Sustainable Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest conservation", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO26",
+      "ngoName": "Punjab Eco-Development and Forest Conservation Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Eco-development", "Forest conservation"]
+    },
+    {
+      "ngoId": "PBNGO27",
+      "ngoName": "Punjab Green Earth Warriors and Conservation Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Environmental education", "Advocacy", "Conservation"]
+    },
+    {
+      "ngoId": "PBNGO28",
+      "ngoName": "Punjab Forest Research and Conservation Warriors",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest research", "Conservation", "Protection"]
+    },
+    {
+      "ngoId": "PBNGO29",
+      "ngoName": "Punjab Green Earth Action and Conservation Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Environmental education", "Advocacy", "Conservation"]
+    },
+    {
+      "ngoId": "PBNGO30",
+      "ngoName": "Punjab Green Earth Conservation and Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Conservation", "Development"]
+    },
+    {
+      "ngoId": "PBNGO31",
+      "ngoName": "Punjab Forest Conservation and Eco-Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest conservation", "Eco-development"]
+    },
+    {
+      "ngoId": "PBNGO32",
+      "ngoName": "Punjab Green Earth Conservation and Sustainable Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Conservation", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO33",
+      "ngoName": "Punjab Forest Protection and Eco-Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest protection", "Eco-development"]
+    },
+    {
+      "ngoId": "PBNGO34",
+      "ngoName": "Punjab Green Earth Warriors and Sustainable Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": [
+        "Environmental education",
+        "Advocacy",
+        "Sustainable development"
+      ]
+    },
+    {
+      "ngoId": "PBNGO35",
+      "ngoName": "Punjab Forest Conservation and Green Earth Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": [
+        "Forest conservation",
+        "Environmental education",
+        "Advocacy"
+      ]
+    },
+    {
+      "ngoId": "PBNGO36",
+      "ngoName": "Punjab Eco-Development and Green Earth Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Eco-development", "Environmental education", "Advocacy"]
+    },
+    {
+      "ngoId": "PBNGO37",
+      "ngoName": "Punjab Forest Research and Green Earth Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest research", "Environmental education", "Advocacy"]
+    },
+    {
+      "ngoId": "PBNGO38",
+      "ngoName": "Punjab Green Earth Conservation and Eco-Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": [
+        "Conservation",
+        "Eco-development",
+        "Sustainable development"
+      ]
+    },
+    {
+      "ngoId": "PBNGO39",
+      "ngoName": "Punjab Forest Protection and Sustainable Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest protection", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO40",
+      "ngoName": "Punjab Green Earth Conservation and Sustainable Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Conservation", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO41",
+      "ngoName": "Punjab Forest Conservation and Sustainable Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest conservation", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO42",
+      "ngoName": "Punjab Eco-Development and Sustainable Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Eco-development", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO43",
+      "ngoName": "Punjab Green Earth Warriors and Eco-Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Environmental education", "Advocacy", "Eco-development"]
+    },
+    {
+      "ngoId": "PBNGO44",
+      "ngoName": "Punjab Forest Research and Sustainable Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest research", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO45",
+      "ngoName": "Punjab Green Earth Conservation and Sustainable Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Conservation", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO46",
+      "ngoName": "Punjab Forest Protection and Sustainable Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest protection", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO47",
+      "ngoName": "Punjab Green Earth Warriors and Forest Conservation Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": [
+        "Environmental education",
+        "Advocacy",
+        "Forest conservation"
+      ]
+    },
+    {
+      "ngoId": "PBNGO48",
+      "ngoName": "Punjab Forest Research and Sustainable Development Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Forest research", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO49",
+      "ngoName": "Punjab Green Earth Conservation and Sustainable Development Network",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Conservation", "Sustainable development"]
+    },
+    {
+      "ngoId": "PBNGO50",
+      "ngoName": "Punjab Eco-Development and Forest Conservation Society",
+      "workingDistricts": ["Statewide"],
+      "focusAreas": ["Eco-development", "Forest conservation"]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "forestId": "UKF01",
+    "forestName": "Jim Corbett National Park",
+    "state": "Uttarakhand",
+    "district": "Nainital, Pauri Garhwal",
+    "forestType": "Tropical Moist Deciduous",
+    "latitude": 29.5305,
+    "longitude": 78.7749,
+    "protectedStatus": true,
+    "deforestationRisk": "medium"
+  },
+  {
+    "forestId": "UKF02",
+    "forestName": "Rajaji National Park",
+    "state": "Uttarakhand",
+    "district": "Dehradun, Haridwar, Pauri Garhwal",
+    "forestType": "Shivalik Sal Forest",
+    "latitude": 30.128,
+    "longitude": 78.308,
+    "protectedStatus": true,
+    "deforestationRisk": "medium"
+  },
+  {
+    "forestId": "UKF03",
+    "forestName": "Nanda Devi National Park",
+    "state": "Uttarakhand",
+    "district": "Chamoli",
+    "forestType": "Alpine & Sub-alpine Forest",
+    "latitude": 30.3753,
+    "longitude": 79.9633,
+    "protectedStatus": true,
+    "deforestationRisk": "low"
+  },
+  {
+    "forestId": "UKF04",
+    "forestName": "Valley of Flowers National Park",
+    "state": "Uttarakhand",
+    "district": "Chamoli",
+    "forestType": "Alpine Meadows",
+    "latitude": 30.7676,
+    "longitude": 79.597,
+    "protectedStatus": true,
+    "deforestationRisk": "low"
+  },
+  {
+    "forestId": "UKF05",
+    "forestName": "Gangotri National Park",
+    "state": "Uttarakhand",
+    "district": "Uttarkashi",
+    "forestType": "Alpine & Temperate Forest",
+    "latitude": 30.9926,
+    "longitude": 79.0955,
+    "protectedStatus": true,
+    "deforestationRisk": "low"
+  },
+  {
+    "forestId": "UKF06",
+    "forestName": "Govind Pashu Vihar National Park",
+    "state": "Uttarakhand",
+    "district": "Uttarkashi",
+    "forestType": "Temperate & Alpine Forest",
+    "latitude": 31.1,
+    "longitude": 79.55,
+    "protectedStatus": true,
+    "deforestationRisk": "low"
+  },
+  {
+    "forestId": "UKF07",
+    "forestName": "Askot Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "district": "Pithoragarh",
+    "forestType": "Temperate & Alpine Forest",
+    "latitude": 30.15,
+    "longitude": 80.0,
+    "protectedStatus": true,
+    "deforestationRisk": "medium"
+  },
+  {
+    "forestId": "UKF08",
+    "forestName": "Sonanadi Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "district": "Pauri Garhwal",
+    "forestType": "Tropical Moist Deciduous",
+    "latitude": 29.55,
+    "longitude": 78.95,
+    "protectedStatus": true,
+    "deforestationRisk": "medium"
+  },
+  {
+    "forestId": "UKF09",
+    "forestName": "Pindari Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "district": "Bageshwar",
+    "forestType": "Sub-alpine Forest",
+    "latitude": 30.3,
+    "longitude": 79.9,
+    "protectedStatus": true,
+    "deforestationRisk": "low"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "forestDepartment": {
+    "departmentId": "BRFD-STATE",
+    "name": "Bihar Forest Department",
+    "headOffice": "Patna",
+    "website": "https://environment.bihar.gov.in",
+    "contact": {
+      "phone": "+91-612-221-1234",
+      "email": "info@biharforest.gov.in"
+    },
+    "divisions": [
+      {
+        "divisionId": "BRFD-DIV1",
+        "name": "North Bihar Forest Division",
+        "headquarters": "Muzaffarpur",
+        "contact": {
+          "phone": "+91-612-221-5678",
+          "email": "info@northbiharforest.gov.in"
+        }
+      },
+      {
+        "divisionId": "BRFD-DIV2",
+        "name": "South Bihar Forest Division",
+        "headquarters": "Gaya",
+        "contact": {
+          "phone": "+91-612-221-9012",
+          "email": "info@southbiharforest.gov.in"
+        }
+      },
+      {
+        "divisionId": "BRFD-DIV3",
+        "name": "Central Bihar Forest Division",
+        "headquarters": "Patna",
+        "contact": {
+          "phone": "+91-612-221-3456",
+          "email": "info@centralbiharforest.gov.in"
+        }
+      }
+    ]
+  }
+}

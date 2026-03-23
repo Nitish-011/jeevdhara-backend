@@ -1,0 +1,793 @@
+{
+  "Hoshiarpur": [
+    {
+      "speciesId": "PB-HSP-FL-01",
+      "commonName": "Khair",
+      "scientificName": "Acacia catechu",
+      "category": "Vulnerable",
+      "habitat": "Dry deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Overharvesting for timber"],
+      "conservationStatus": "Regionally threatened",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_catechu.jpg"
+    },
+    {
+      "speciesId": "PB-HSP-FL-02",
+      "commonName": "Babul",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    },
+    {
+      "speciesId": "PB-HSP-FL-03",
+      "commonName": "Siris",
+      "scientificName": "Albizia lebbeck",
+      "category": "Vulnerable",
+      "habitat": "Riverine and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Albizia_lebbeck.jpg"
+    }
+  ],
+
+  "Rupnagar": [
+    {
+      "speciesId": "PB-RPN-FL-01",
+      "commonName": "Shisham",
+      "scientificName": "Dalbergia sissoo",
+      "category": "Vulnerable",
+      "habitat": "Riverine forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Disease", "Logging"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Dalbergia_sissoo_tree.jpg"
+    },
+    {
+      "speciesId": "PB-RPN-FL-02",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    },
+    {
+      "speciesId": "PB-RPN-FL-03",
+      "commonName": "Amaltas",
+      "scientificName": "Cassia fistula",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and open forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Cassia_fistula.jpg"
+    }
+  ],
+
+  "Amritsar": [
+    {
+      "speciesId": "PB-AMR-FL-01",
+      "commonName": "Peepal",
+      "scientificName": "Ficus religiosa",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_religiosa.jpg"
+    },
+    {
+      "speciesId": "PB-AMR-FL-02",
+      "commonName": "Bargad",
+      "scientificName": "Ficus benghalensis",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_benghalensis.jpg"
+    },
+    {
+      "speciesId": "PB-AMR-FL-03",
+      "commonName": "Mango",
+      "scientificName": "Mangifera indica",
+      "category": "Vulnerable",
+      "habitat": "Cultivated areas and orchards",
+      "statesFound": ["Punjab"],
+      "threats": ["Pests", "Diseases", "Climate change"],
+      "conservationStatus": "Economically important, declining in wild populations",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Mangifera_indica.jpg"
+    }
+  ],
+
+  "Fazilka": [
+    {
+      "speciesId": "PB-FZK-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-FZK-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-FZK-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "Tarn Taran": [
+    {
+      "speciesId": "PB-TTN-FL-01",
+      "commonName": "Arjun",
+      "scientificName": "Terminalia arjuna",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Riverbank erosion", "Overharvesting"],
+      "conservationStatus": "Medicinally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Terminalia_arjuna.jpg"
+    },
+    {
+      "speciesId": "PB-TTN-FL-02",
+      "commonName": "Jamun",
+      "scientificName": "Syzygium cumini",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and moist areas",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting for fruit"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Syzygium_cumini.jpg"
+    },
+    {
+      "speciesId": "PB-TTN-FL-03",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    }
+  ],
+
+  "Pathankot": [
+    {
+      "speciesId": "PB-PTK-FL-01",
+      "commonName": "Pipal",
+      "scientificName": "Ficus religiosa",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and village commons",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_religiosa.jpg"
+    },
+    {
+      "speciesId": "PB-PTK-FL-02",
+      "commonName": "Bargad",
+      "scientificName": "Ficus benghalensis",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and village commons",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_benghalensis.jpg"
+    },
+    {
+      "speciesId": "PB-PTK-FL-03",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    }
+  ],
+
+  "Gurdaspur": [
+    {
+      "speciesId": "PB-GDP-FL-01",
+      "commonName": "Shisham",
+      "scientificName": "Dalbergia sissoo",
+      "category": "Vulnerable",
+      "habitat": "Riverine forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Disease", "Logging"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Dalbergia_sissoo_tree.jpg"
+    },
+    {
+      "speciesId": "PB-GDP-FL-02",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    },
+    {
+      "speciesId": "PB-GDP-FL-03",
+      "commonName": "Amaltas",
+      "scientificName": "Cassia fistula",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and open forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Cassia_fistula.jpg"
+    }
+  ],
+
+  "Kapurthala": [
+    {
+      "speciesId": "PB-KPT-FL-01",
+      "commonName": "Peepal",
+      "scientificName": "Ficus religiosa",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_religiosa.jpg"
+    },
+    {
+      "speciesId": "PB-KPT-FL-02",
+      "commonName": "Bargad",
+      "scientificName": "Ficus benghalensis",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_benghalensis.jpg"
+    },
+    {
+      "speciesId": "PB-KPT-FL-03",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    }
+  ],
+
+  "Jalandhar": [
+    {
+      "speciesId": "PB-JLD-FL-01",
+      "commonName": "Shisham",
+      "scientificName": "Dalbergia sissoo",
+      "category": "Vulnerable",
+      "habitat": "Riverine forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Disease", "Logging"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Dalbergia_sissoo_tree.jpg"
+    },
+    {
+      "speciesId": "PB-JLD-FL-02",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    },
+    {
+      "speciesId": "PB-JLD-FL-03",
+      "commonName": "Amaltas",
+      "scientificName": "Cassia fistula",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and open forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Cassia_fistula.jpg"
+    }
+  ],
+
+  "Sangrur": [
+    {
+      "speciesId": "PB-SGR-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-SGR-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-SGR-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "Mansa": [
+    {
+      "speciesId": "PB-MNS-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-MNS-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-MNS-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "Barnala": [
+    {
+      "speciesId": "PB-BNL-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-BNL-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-BNL-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "S.A.S. Nagar": [
+    {
+      "speciesId": "PB-SAS-FL-01",
+      "commonName": "Peepal",
+      "scientificName": "Ficus religiosa",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_religiosa.jpg"
+    },
+    {
+      "speciesId": "PB-SAS-FL-02",
+      "commonName": "Bargad",
+      "scientificName": "Ficus benghalensis",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_benghalensis.jpg"
+    },
+    {
+      "speciesId": "PB-SAS-FL-03",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    }
+  ],
+
+  "Ludhiana": [
+    {
+      "speciesId": "PB-LDH-FL-01",
+      "commonName": "Shisham",
+      "scientificName": "Dalbergia sissoo",
+      "category": "Vulnerable",
+      "habitat": "Riverine forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Disease", "Logging"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Dalbergia_sissoo_tree.jpg"
+    },
+    {
+      "speciesId": "PB-LDH-FL-02",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    },
+    {
+      "speciesId": "PB-LDH-FL-03",
+      "commonName": "Amaltas",
+      "scientificName": "Cassia fistula",
+      "category": "Vulnerable",
+      "habitat": "Riverbanks and open forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Cassia_fistula.jpg"
+    }
+  ],
+
+  "Bathinda": [
+    {
+      "speciesId": "PB-BTN-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-BTN-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-BTN-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "Firozpur": [
+    {
+      "speciesId": "PB-FZP-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-FZP-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-FZP-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "Moga": [
+    {
+      "speciesId": "PB-MGA-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-MGA-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-MGA-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "SBS Nagar": [
+    {
+      "speciesId": "PB-SBS-FL-01",
+      "commonName": "Peepal",
+      "scientificName": "Ficus religiosa",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_religiosa.jpg"
+    },
+    {
+      "speciesId": "PB-SBS-FL-02",
+      "commonName": "Bargad",
+      "scientificName": "Ficus benghalensis",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_benghalensis.jpg"
+    },
+    {
+      "speciesId": "PB-SBS-FL-03",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    }
+  ],
+
+  "Kishangarh": [
+    {
+      "speciesId": "PB-KSG-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-KSG-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-KSG-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "Malerkotla": [
+    {
+      "speciesId": "PB-MLK-FL-01",
+      "commonName": "Peepal",
+      "scientificName": "Ficus religiosa",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_religiosa.jpg"
+    },
+    {
+      "speciesId": "PB-MLK-FL-02",
+      "commonName": "Bargad",
+      "scientificName": "Ficus benghalensis",
+      "category": "Vulnerable",
+      "habitat": "Village commons and riverbanks",
+      "statesFound": ["Punjab"],
+      "threats": ["Urbanization"],
+      "conservationStatus": "Culturally protected, ecologically declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ficus_benghalensis.jpg"
+    },
+    {
+      "speciesId": "PB-MLK-FL-03",
+      "commonName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "category": "Vulnerable",
+      "habitat": "Dry and moist deciduous forests",
+      "statesFound": ["Punjab"],
+      "threats": ["Deforestation", "Overharvesting"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Azadirachta_indica.jpg"
+    }
+  ],
+
+  "Muktsar": [
+    {
+      "speciesId": "PB-MKS-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-MKS-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-MKS-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ],
+
+  "Faridkot": [
+    {
+      "speciesId": "PB-FDK-FL-01",
+      "commonName": "Khejri",
+      "scientificName": "Prosopis cineraria",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion"],
+      "conservationStatus": "Regionally important desert species",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Prosopis_cineraria.jpg"
+    },
+    {
+      "speciesId": "PB-FDK-FL-02",
+      "commonName": "Sangra",
+      "scientificName": "Acacia senegal",
+      "category": "Vulnerable",
+      "habitat": "Arid and semi-arid regions",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overharvesting for gum"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_senegal.jpg"
+    },
+    {
+      "speciesId": "PB-FDK-FL-03",
+      "commonName": "Babool",
+      "scientificName": "Acacia nilotica",
+      "category": "Vulnerable",
+      "habitat": "Dry and saline soils",
+      "statesFound": ["Punjab"],
+      "threats": ["Land conversion", "Overgrazing"],
+      "conservationStatus": "Regionally important, declining",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Acacia_nilotica.jpg"
+    }
+  ]
+}

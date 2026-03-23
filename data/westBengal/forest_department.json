@@ -1,0 +1,41 @@
+{
+  "forestDepartment": {
+    "departmentId": "WBFD-STATE",
+    "name": "West Bengal Forest Department",
+    "headOffice": "Kolkata",
+    "website": "https://www.westbengalforest.gov.in",
+    "contact": {
+      "phone": "+91-33-2214-5678",
+      "email": "info@westbengalforest.gov.in"
+    },
+    "divisions": [
+      {
+        "divisionId": "WBFD-DIV1",
+        "name": "North Bengal Forest Division",
+        "headquarters": "Siliguri",
+        "contact": {
+          "phone": "+91-353-221-1234",
+          "email": "info@northbengalforest.gov.in"
+        }
+      },
+      {
+        "divisionId": "WBFD-DIV2",
+        "name": "South Bengal Forest Division",
+        "headquarters": "Kolkata",
+        "contact": {
+          "phone": "+91-33-221-5678",
+          "email": "info@southbengalforest.gov.in"
+        }
+      },
+      {
+        "divisionId": "WBFD-DIV3",
+        "name": "Central Bengal Forest Division",
+        "headquarters": "Asansol",
+        "contact": {
+          "phone": "+91-341-221-9012",
+          "email": "info@centralbengalforest.gov.in"
+        }
+      }
+    ]
+  }
+}
