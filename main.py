@@ -28,7 +28,7 @@ from groq import Groq
 load_dotenv()
 
 VISION_ENGINE = "gemini-2.5-flash"
-LEADERBOARD_ENGINE = "llama3-70b-8192"
+LEADERBOARD_ENGINE = "openai/gpt-oss-120b"
 
 # Initialize Firebase Admin
 firebase_creds_json = os.getenv("FIREBASE_CREDENTIALS")
