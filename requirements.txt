@@ -6,3 +6,4 @@ groq
 httpx==0.27.2
 python-dotenv
 slowapi
+python-multipart
